@@ -1,0 +1,62 @@
+$colorRojo: #8B0000;
+*{
+    box-sizing: border-box;
+}
+body {
+    font: {
+        family: 'Libre Baskerville';
+        size: 22px;
+    }
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+
+    padding: {
+        left: 10%;
+        right: 10%;
+    };
+}
+
+nav {
+    height: 70px;
+    width: 100%;
+    background-color: $colorRojo;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: {
+        left: 10%;
+        right: 10%;
+    }
+
+    img {
+        height: 90px;
+
+    }
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    background-color: $colorRojo;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: {
+        left: 10%;
+        right: 10%;
+    }
+    img {
+        height: 90%;
+    }
+}

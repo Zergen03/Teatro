@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Libre Baskerville";
+  font-size: 22px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+nav {
+  height: 70px;
+  width: 100%;
+  background-color: #8B0000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+nav img {
+  height: 90px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  background-color: #8B0000;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+footer img {
+  height: 90%;
+}
+
+/*# sourceMappingURL=main.css.map */
