@@ -4,14 +4,14 @@
 
 body {
   font-family: "Libre Baskerville";
-  font-size: 22px;
+  font-size: 1em;
 }
 
 header {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 300px;
+  height: 150px;
   padding-left: 10%;
   padding-right: 10%;
 }
@@ -23,6 +23,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  min-width: 300px;
   padding-left: 10%;
   padding-right: 10%;
 }
@@ -47,6 +48,103 @@ footer {
 }
 footer img {
   height: 90%;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.main img {
+  width: 700px;
+}
+
+.valoradas {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.valoradas img {
+  height: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.seleccionButacas {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+@media (max-width: 1000px) {
+  .seleccionButacas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+}
+
+.ajustarButacas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 30%;
+  min-width: 300px;
+  overflow: hidden;
+}
+@media (max-width: 1000px) {
+  .ajustarButacas {
+    order: 1;
+  }
+}
+
+.butacas {
+  display: grid;
+  grid-template-rows: repeat(5, auto);
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1%, 5%;
+  align-items: center;
+  justify-items: center;
+  height: 100%;
+  width: 50%;
+  border: #B8860B 7px solid;
+  border-radius: 0px;
+  padding: 10px;
+  margin: auto;
+}
+
+.butaca {
+  height: 15px;
+  border: none;
+  width: 15px;
+  background-color: rgb(206, 206, 206);
+  box-shadow: 0 0 3px 1px;
+}
+
+.horarios {
+  background-color: #8B0000;
+  height: 700px;
+  width: 20%;
+  border: #B8860B 7px solid;
+  border-radius: 20px;
+}
+@media (max-width: 1000px) {
+  .horarios {
+    order: 2;
+    width: 100%;
+    height: 300px;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
