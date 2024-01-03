@@ -32,10 +32,12 @@ nav {
     justify-content: space-between;
     align-items: center;
     min-width: 300px;
+
     padding: {
         left: 10%;
         right: 10%;
     }
+
     img {
         height: 90px;
     }
@@ -128,43 +130,43 @@ footer {
 .recientes {}
 
 .ajustarButacas {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 300px;
-    width: 30%;
+    height: auto;
     min-width: 300px;
-    overflow: hidden;
-    
+    padding: auto;
+    // display: flex;
+    // justify-content: center;
+    @include borders();
+
     @media (max-width: 1000px) {
         order: 1;
     }
 }
 
-.butacas {
-    display: grid;
-    grid-template-rows: repeat(5, auto);
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: (1%, 5%);
-    align-items: center;
-    justify-items: center;
-    height: 100%;
-    width: 50%;
-    @include borders(0px);
-    padding: 10px;
-    margin: auto;
-    // padding: {
-    //     left: 30%;
-    //     right: 30%;
-    // };
-}
+// .ajustarButacas{
+//     margin: 100px;
+//     perspective: 1000px;
+// }
 
-.butaca {
-    height: 15px;
-    border: none;
-    width: 15px;
-    background-color: rgb(206, 206, 206);
-    box-shadow: 0 0 3px 1px
+.fila    {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+
+    .butaca {
+        width: 20px;
+        height: 20px;
+        margin: 3px;
+        background-color: #444444;
+        border: none;
+        border-radius: 4px;
+        // cursor: pointer;
+    }
+    // Ejemplo de cómo usar un bucle para generar estilos
+    // @for $i from 1 through 6 {
+    //     &:nth-child(#{$i}) {
+    //       transform: rotateX(10deg * (7 - $i));
+    //     }
+    //   }
 }
 
 .horarios {

@@ -95,13 +95,11 @@ footer img {
 }
 
 .ajustarButacas {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 300px;
-  width: 30%;
+  height: auto;
   min-width: 300px;
-  overflow: hidden;
+  padding: auto;
+  border: #B8860B 7px solid;
+  border-radius: 0px;
 }
 @media (max-width: 1000px) {
   .ajustarButacas {
@@ -109,27 +107,18 @@ footer img {
   }
 }
 
-.butacas {
-  display: grid;
-  grid-template-rows: repeat(5, auto);
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 1%, 5%;
-  align-items: center;
-  justify-items: center;
-  height: 100%;
-  width: 50%;
-  border: #B8860B 7px solid;
-  border-radius: 0px;
-  padding: 10px;
-  margin: auto;
+.fila {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
 }
-
-.butaca {
-  height: 15px;
+.fila .butaca {
+  width: 20px;
+  height: 20px;
+  margin: 3px;
+  background-color: #444444;
   border: none;
-  width: 15px;
-  background-color: rgb(206, 206, 206);
-  box-shadow: 0 0 3px 1px;
+  border-radius: 4px;
 }
 
 .horarios {
