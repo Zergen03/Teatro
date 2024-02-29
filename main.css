@@ -1,0 +1,315 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Libre Baskerville";
+  font-size: 1em;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  flex-shrink: 0;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+nav {
+  height: 70px;
+  width: 100%;
+  background-color: #8B0000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 300px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+nav img {
+  height: 90px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  background-color: #8B0000;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  margin-top: auto;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+footer img {
+  height: 90%;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.main img {
+  width: 700px;
+}
+
+.valoradas {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.valoradas p {
+  margin-bottom: 20px;
+}
+.valoradas .grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-items: center;
+  align-items: center;
+}
+.valoradas .grid-container img {
+  height: auto;
+  max-height: 400px;
+  width: auto;
+}
+
+.seleccionButacas {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  flex: 1;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+@media (max-width: 1000px) {
+  .seleccionButacas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+}
+
+.ajustarButacas {
+  height: auto;
+  min-width: 300px;
+  padding: auto;
+  border: #B8860B 7px solid;
+  border-radius: 0px;
+}
+@media (max-width: 1000px) {
+  .ajustarButacas {
+    order: 1;
+  }
+}
+
+.fila {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+.fila .butaca {
+  width: 20px;
+  height: 20px;
+  margin: 3px;
+  background-color: #444444;
+  border: none;
+  border-radius: 4px;
+}
+
+.horarios {
+  background-color: #8B0000;
+  height: 700px;
+  width: 20%;
+  border: #B8860B 7px solid;
+  border-radius: 20px;
+}
+@media (max-width: 1000px) {
+  .horarios {
+    order: 2;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+  }
+}
+
+.imagen-central {
+  max-width: 200px;
+  height: auto;
+  margin: 20px 0;
+}
+
+.centroButacas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tarjeta-pelicula {
+  width: 200px;
+  height: 300px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.3s;
+  perspective: 1000px;
+}
+.tarjeta-pelicula.girada {
+  transform: rotateY(180deg);
+}
+.tarjeta-pelicula .frente,
+.tarjeta-pelicula .trasera {
+  backface-visibility: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.tarjeta-pelicula .frente {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.tarjeta-pelicula .trasera {
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.6980392157);
+  color: #fff;
+  border-radius: 10px;
+}
+.tarjeta-pelicula .trasera button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.tarjeta-pelicula .trasera button:hover {
+  background-color: rgba(94, 94, 94, 0.6784313725);
+}
+
+.grid-peliculas {
+  margin: 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.contacto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: #8B0000;
+  border-radius: 10px;
+  border: 10px solid black;
+  border: #B8860B 7px solid;
+  border-radius: 10px;
+}
+.contacto h2 {
+  margin-bottom: 20px;
+}
+@media (max-width: 1000px) {
+  .contacto {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+@media (max-width: 600px) {
+  .contacto {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+.contacto .bordeTexto {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+@media (max-width: 600px) {
+  .contacto .bordeTexto {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+}
+.contacto form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+}
+.contacto form input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.contacto form textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.contacto form button {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: #B8860B;
+  color: white;
+  cursor: pointer;
+}
+.contacto form button:hover {
+  background-color: #B8860B;
+}
+
+/*# sourceMappingURL=main.css.map */

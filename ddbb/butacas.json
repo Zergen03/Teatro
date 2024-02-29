@@ -1,0 +1,7148 @@
+[
+  {
+    "id": 0,
+    "idObra": 0,
+    "numeroAsiento": "1A",
+    "reservada": false
+  },
+  {
+    "id": 1,
+    "idObra": 0,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 2,
+    "idObra": 0,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 3,
+    "idObra": 0,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 4,
+    "idObra": 0,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 5,
+    "idObra": 0,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 6,
+    "idObra": 0,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 7,
+    "idObra": 0,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 8,
+    "idObra": 0,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 9,
+    "idObra": 0,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 10,
+    "idObra": 0,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 11,
+    "idObra": 0,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 12,
+    "idObra": 0,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 13,
+    "idObra": 0,
+    "numeroAsiento": "2D",
+    "reservada": false
+  },
+  {
+    "id": 14,
+    "idObra": 0,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 15,
+    "idObra": 0,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 16,
+    "idObra": 0,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 17,
+    "idObra": 0,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 18,
+    "idObra": 0,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 19,
+    "idObra": 0,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 20,
+    "idObra": 0,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 21,
+    "idObra": 0,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 22,
+    "idObra": 0,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 23,
+    "idObra": 0,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 24,
+    "idObra": 0,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 25,
+    "idObra": 0,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 26,
+    "idObra": 0,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 27,
+    "idObra": 0,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 28,
+    "idObra": 0,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 29,
+    "idObra": 0,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 30,
+    "idObra": 0,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 31,
+    "idObra": 0,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 32,
+    "idObra": 0,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 33,
+    "idObra": 0,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 34,
+    "idObra": 0,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 35,
+    "idObra": 0,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 36,
+    "idObra": 0,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 37,
+    "idObra": 0,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 38,
+    "idObra": 0,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 39,
+    "idObra": 0,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 40,
+    "idObra": 0,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 41,
+    "idObra": 0,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 42,
+    "idObra": 0,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 43,
+    "idObra": 0,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 44,
+    "idObra": 0,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 45,
+    "idObra": 0,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 46,
+    "idObra": 0,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 47,
+    "idObra": 0,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 48,
+    "idObra": 0,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 49,
+    "idObra": 0,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 50,
+    "idObra": 0,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 51,
+    "idObra": 0,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 52,
+    "idObra": 0,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 53,
+    "idObra": 0,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 54,
+    "idObra": 0,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 55,
+    "idObra": 0,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 56,
+    "idObra": 0,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 57,
+    "idObra": 0,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 58,
+    "idObra": 0,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 59,
+    "idObra": 0,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 60,
+    "idObra": 0,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 61,
+    "idObra": 0,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 62,
+    "idObra": 0,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 63,
+    "idObra": 0,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 64,
+    "idObra": 0,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 65,
+    "idObra": 0,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 66,
+    "idObra": 0,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 67,
+    "idObra": 0,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 68,
+    "idObra": 0,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 69,
+    "idObra": 0,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 70,
+    "idObra": 0,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 71,
+    "idObra": 0,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 72,
+    "idObra": 0,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 73,
+    "idObra": 0,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 74,
+    "idObra": 0,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 75,
+    "idObra": 0,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 76,
+    "idObra": 0,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 77,
+    "idObra": 0,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 78,
+    "idObra": 0,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 79,
+    "idObra": 0,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 80,
+    "idObra": 0,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 81,
+    "idObra": 0,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 82,
+    "idObra": 0,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 83,
+    "idObra": 0,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 84,
+    "idObra": 0,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 85,
+    "idObra": 0,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 86,
+    "idObra": 0,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 87,
+    "idObra": 0,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 88,
+    "idObra": 0,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 89,
+    "idObra": 0,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 90,
+    "idObra": 0,
+    "numeroAsiento": "10A",
+    "reservada": false
+  },
+  {
+    "id": 91,
+    "idObra": 0,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 92,
+    "idObra": 0,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 93,
+    "idObra": 0,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 94,
+    "idObra": 0,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 95,
+    "idObra": 0,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 96,
+    "idObra": 0,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 97,
+    "idObra": 0,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 98,
+    "idObra": 0,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 99,
+    "idObra": 0,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 100,
+    "idObra": 0,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 101,
+    "idObra": 0,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 102,
+    "idObra": 0,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 103,
+    "idObra": 0,
+    "numeroAsiento": "11D",
+    "reservada": false
+  },
+  {
+    "id": 104,
+    "idObra": 0,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 105,
+    "idObra": 0,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 106,
+    "idObra": 0,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 107,
+    "idObra": 0,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 108,
+    "idObra": 0,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 109,
+    "idObra": 0,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 110,
+    "idObra": 0,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 111,
+    "idObra": 0,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 112,
+    "idObra": 0,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 113,
+    "idObra": 0,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 114,
+    "idObra": 1,
+    "numeroAsiento": "1A",
+    "reservada": false
+  },
+  {
+    "id": 115,
+    "idObra": 1,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 116,
+    "idObra": 1,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 117,
+    "idObra": 1,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 118,
+    "idObra": 1,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 119,
+    "idObra": 1,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 120,
+    "idObra": 1,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 121,
+    "idObra": 1,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 122,
+    "idObra": 1,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 123,
+    "idObra": 1,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 124,
+    "idObra": 1,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 125,
+    "idObra": 1,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 126,
+    "idObra": 1,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 127,
+    "idObra": 1,
+    "numeroAsiento": "2D",
+    "reservada": false
+  },
+  {
+    "id": 128,
+    "idObra": 1,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 129,
+    "idObra": 1,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 130,
+    "idObra": 1,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 131,
+    "idObra": 1,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 132,
+    "idObra": 1,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 133,
+    "idObra": 1,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 134,
+    "idObra": 1,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 135,
+    "idObra": 1,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 136,
+    "idObra": 1,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 137,
+    "idObra": 1,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 138,
+    "idObra": 1,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 139,
+    "idObra": 1,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 140,
+    "idObra": 1,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 141,
+    "idObra": 1,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 142,
+    "idObra": 1,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 143,
+    "idObra": 1,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 144,
+    "idObra": 1,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 145,
+    "idObra": 1,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 146,
+    "idObra": 1,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 147,
+    "idObra": 1,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 148,
+    "idObra": 1,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 149,
+    "idObra": 1,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 150,
+    "idObra": 1,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 151,
+    "idObra": 1,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 152,
+    "idObra": 1,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 153,
+    "idObra": 1,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 154,
+    "idObra": 1,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 155,
+    "idObra": 1,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 156,
+    "idObra": 1,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 157,
+    "idObra": 1,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 158,
+    "idObra": 1,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 159,
+    "idObra": 1,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 160,
+    "idObra": 1,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 161,
+    "idObra": 1,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 162,
+    "idObra": 1,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 163,
+    "idObra": 1,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 164,
+    "idObra": 1,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 165,
+    "idObra": 1,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 166,
+    "idObra": 1,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 167,
+    "idObra": 1,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 168,
+    "idObra": 1,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 169,
+    "idObra": 1,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 170,
+    "idObra": 1,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 171,
+    "idObra": 1,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 172,
+    "idObra": 1,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 173,
+    "idObra": 1,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 174,
+    "idObra": 1,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 175,
+    "idObra": 1,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 176,
+    "idObra": 1,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 177,
+    "idObra": 1,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 178,
+    "idObra": 1,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 179,
+    "idObra": 1,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 180,
+    "idObra": 1,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 181,
+    "idObra": 1,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 182,
+    "idObra": 1,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 183,
+    "idObra": 1,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 184,
+    "idObra": 1,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 185,
+    "idObra": 1,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 186,
+    "idObra": 1,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 187,
+    "idObra": 1,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 188,
+    "idObra": 1,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 189,
+    "idObra": 1,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 190,
+    "idObra": 1,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 191,
+    "idObra": 1,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 192,
+    "idObra": 1,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 193,
+    "idObra": 1,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 194,
+    "idObra": 1,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 195,
+    "idObra": 1,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 196,
+    "idObra": 1,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 197,
+    "idObra": 1,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 198,
+    "idObra": 1,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 199,
+    "idObra": 1,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 200,
+    "idObra": 1,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 201,
+    "idObra": 1,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 202,
+    "idObra": 1,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 203,
+    "idObra": 1,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 204,
+    "idObra": 1,
+    "numeroAsiento": "10A",
+    "reservada": false
+  },
+  {
+    "id": 205,
+    "idObra": 1,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 206,
+    "idObra": 1,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 207,
+    "idObra": 1,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 208,
+    "idObra": 1,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 209,
+    "idObra": 1,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 210,
+    "idObra": 1,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 211,
+    "idObra": 1,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 212,
+    "idObra": 1,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 213,
+    "idObra": 1,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 214,
+    "idObra": 1,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 215,
+    "idObra": 1,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 216,
+    "idObra": 1,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 217,
+    "idObra": 1,
+    "numeroAsiento": "11D",
+    "reservada": false
+  },
+  {
+    "id": 218,
+    "idObra": 1,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 219,
+    "idObra": 1,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 220,
+    "idObra": 1,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 221,
+    "idObra": 1,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 222,
+    "idObra": 1,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 223,
+    "idObra": 1,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 224,
+    "idObra": 1,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 225,
+    "idObra": 1,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 226,
+    "idObra": 1,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 227,
+    "idObra": 1,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 228,
+    "idObra": 1,
+    "numeroAsiento": "12E",
+    "reservada": false
+  },
+  {
+    "id": 229,
+    "idObra": 1,
+    "numeroAsiento": "12F",
+    "reservada": false
+  },
+  {
+    "id": 230,
+    "idObra": 1,
+    "numeroAsiento": "12G",
+    "reservada": false
+  },
+  {
+    "id": 231,
+    "idObra": 1,
+    "numeroAsiento": "12H",
+    "reservada": false
+  },
+  {
+    "id": 232,
+    "idObra": 1,
+    "numeroAsiento": "12I",
+    "reservada": false
+  },
+  {
+    "id": 233,
+    "idObra": 1,
+    "numeroAsiento": "12J",
+    "reservada": false
+  },
+  {
+    "id": 234,
+    "idObra": 1,
+    "numeroAsiento": "13A",
+    "reservada": false
+  },
+  {
+    "id": 235,
+    "idObra": 1,
+    "numeroAsiento": "13B",
+    "reservada": false
+  },
+  {
+    "id": 236,
+    "idObra": 1,
+    "numeroAsiento": "13C",
+    "reservada": false
+  },
+  {
+    "id": 237,
+    "idObra": 1,
+    "numeroAsiento": "13D",
+    "reservada": false
+  },
+  {
+    "id": 238,
+    "idObra": 1,
+    "numeroAsiento": "13E",
+    "reservada": false
+  },
+  {
+    "id": 239,
+    "idObra": 1,
+    "numeroAsiento": "13F",
+    "reservada": false
+  },
+  {
+    "id": 240,
+    "idObra": 1,
+    "numeroAsiento": "13G",
+    "reservada": false
+  },
+  {
+    "id": 241,
+    "idObra": 1,
+    "numeroAsiento": "13H",
+    "reservada": false
+  },
+  {
+    "id": 242,
+    "idObra": 1,
+    "numeroAsiento": "13I",
+    "reservada": false
+  },
+  {
+    "id": 243,
+    "idObra": 1,
+    "numeroAsiento": "13J",
+    "reservada": false
+  },
+  {
+    "id": 244,
+    "idObra": 1,
+    "numeroAsiento": "14A",
+    "reservada": false
+  },
+  {
+    "id": 245,
+    "idObra": 1,
+    "numeroAsiento": "14B",
+    "reservada": false
+  },
+  {
+    "id": 246,
+    "idObra": 1,
+    "numeroAsiento": "14C",
+    "reservada": false
+  },
+  {
+    "id": 247,
+    "idObra": 1,
+    "numeroAsiento": "14D",
+    "reservada": false
+  },
+  {
+    "id": 248,
+    "idObra": 1,
+    "numeroAsiento": "14E",
+    "reservada": false
+  },
+  {
+    "id": 249,
+    "idObra": 1,
+    "numeroAsiento": "14F",
+    "reservada": false
+  },
+  {
+    "id": 250,
+    "idObra": 1,
+    "numeroAsiento": "14G",
+    "reservada": false
+  },
+  {
+    "id": 251,
+    "idObra": 1,
+    "numeroAsiento": "14H",
+    "reservada": false
+  },
+  {
+    "id": 252,
+    "idObra": 1,
+    "numeroAsiento": "14I",
+    "reservada": false
+  },
+  {
+    "id": 253,
+    "idObra": 1,
+    "numeroAsiento": "14J",
+    "reservada": false
+  },
+  {
+    "id": 254,
+    "idObra": 1,
+    "numeroAsiento": "15A",
+    "reservada": false
+  },
+  {
+    "id": 255,
+    "idObra": 1,
+    "numeroAsiento": "15B",
+    "reservada": false
+  },
+  {
+    "id": 256,
+    "idObra": 1,
+    "numeroAsiento": "15C",
+    "reservada": false
+  },
+  {
+    "id": 257,
+    "idObra": 1,
+    "numeroAsiento": "15D",
+    "reservada": false
+  },
+  {
+    "id": 258,
+    "idObra": 1,
+    "numeroAsiento": "15E",
+    "reservada": false
+  },
+  {
+    "id": 259,
+    "idObra": 1,
+    "numeroAsiento": "15F",
+    "reservada": false
+  },
+  {
+    "id": 260,
+    "idObra": 1,
+    "numeroAsiento": "15G",
+    "reservada": false
+  },
+  {
+    "id": 261,
+    "idObra": 1,
+    "numeroAsiento": "15H",
+    "reservada": false
+  },
+  {
+    "id": 262,
+    "idObra": 1,
+    "numeroAsiento": "15I",
+    "reservada": false
+  },
+  {
+    "id": 263,
+    "idObra": 1,
+    "numeroAsiento": "15J",
+    "reservada": false
+  },
+  {
+    "id": 264,
+    "idObra": 1,
+    "numeroAsiento": "16A",
+    "reservada": false
+  },
+  {
+    "id": 265,
+    "idObra": 1,
+    "numeroAsiento": "16B",
+    "reservada": false
+  },
+  {
+    "id": 266,
+    "idObra": 1,
+    "numeroAsiento": "16C",
+    "reservada": false
+  },
+  {
+    "id": 267,
+    "idObra": 1,
+    "numeroAsiento": "16D",
+    "reservada": false
+  },
+  {
+    "id": 268,
+    "idObra": 1,
+    "numeroAsiento": "16E",
+    "reservada": false
+  },
+  {
+    "id": 269,
+    "idObra": 1,
+    "numeroAsiento": "16F",
+    "reservada": false
+  },
+  {
+    "id": 270,
+    "idObra": 1,
+    "numeroAsiento": "16G",
+    "reservada": false
+  },
+  {
+    "id": 271,
+    "idObra": 1,
+    "numeroAsiento": "16H",
+    "reservada": false
+  },
+  {
+    "id": 272,
+    "idObra": 1,
+    "numeroAsiento": "16I",
+    "reservada": false
+  },
+  {
+    "id": 273,
+    "idObra": 1,
+    "numeroAsiento": "16J",
+    "reservada": false
+  },
+  {
+    "id": 274,
+    "idObra": 1,
+    "numeroAsiento": "17A",
+    "reservada": false
+  },
+  {
+    "id": 275,
+    "idObra": 1,
+    "numeroAsiento": "17B",
+    "reservada": false
+  },
+  {
+    "id": 276,
+    "idObra": 1,
+    "numeroAsiento": "17C",
+    "reservada": false
+  },
+  {
+    "id": 277,
+    "idObra": 1,
+    "numeroAsiento": "17D",
+    "reservada": false
+  },
+  {
+    "id": 278,
+    "idObra": 1,
+    "numeroAsiento": "17E",
+    "reservada": false
+  },
+  {
+    "id": 279,
+    "idObra": 1,
+    "numeroAsiento": "17F",
+    "reservada": false
+  },
+  {
+    "id": 280,
+    "idObra": 1,
+    "numeroAsiento": "17G",
+    "reservada": false
+  },
+  {
+    "id": 281,
+    "idObra": 1,
+    "numeroAsiento": "17H",
+    "reservada": false
+  },
+  {
+    "id": 282,
+    "idObra": 1,
+    "numeroAsiento": "17I",
+    "reservada": false
+  },
+  {
+    "id": 283,
+    "idObra": 1,
+    "numeroAsiento": "17J",
+    "reservada": false
+  },
+  {
+    "id": 284,
+    "idObra": 1,
+    "numeroAsiento": "18A",
+    "reservada": false
+  },
+  {
+    "id": 285,
+    "idObra": 1,
+    "numeroAsiento": "18B",
+    "reservada": false
+  },
+  {
+    "id": 286,
+    "idObra": 1,
+    "numeroAsiento": "18C",
+    "reservada": false
+  },
+  {
+    "id": 287,
+    "idObra": 1,
+    "numeroAsiento": "18D",
+    "reservada": false
+  },
+  {
+    "id": 288,
+    "idObra": 1,
+    "numeroAsiento": "18E",
+    "reservada": false
+  },
+  {
+    "id": 289,
+    "idObra": 1,
+    "numeroAsiento": "18F",
+    "reservada": false
+  },
+  {
+    "id": 290,
+    "idObra": 1,
+    "numeroAsiento": "18G",
+    "reservada": false
+  },
+  {
+    "id": 291,
+    "idObra": 1,
+    "numeroAsiento": "18H",
+    "reservada": false
+  },
+  {
+    "id": 292,
+    "idObra": 1,
+    "numeroAsiento": "18I",
+    "reservada": false
+  },
+  {
+    "id": 293,
+    "idObra": 1,
+    "numeroAsiento": "18J",
+    "reservada": false
+  },
+  {
+    "id": 294,
+    "idObra": 1,
+    "numeroAsiento": "19A",
+    "reservada": false
+  },
+  {
+    "id": 295,
+    "idObra": 1,
+    "numeroAsiento": "19B",
+    "reservada": false
+  },
+  {
+    "id": 296,
+    "idObra": 1,
+    "numeroAsiento": "19C",
+    "reservada": false
+  },
+  {
+    "id": 297,
+    "idObra": 1,
+    "numeroAsiento": "19D",
+    "reservada": false
+  },
+  {
+    "id": 298,
+    "idObra": 1,
+    "numeroAsiento": "19E",
+    "reservada": false
+  },
+  {
+    "id": 299,
+    "idObra": 1,
+    "numeroAsiento": "19F",
+    "reservada": false
+  },
+  {
+    "id": 300,
+    "idObra": 2,
+    "numeroAsiento": "1A",
+    "reservado": false
+  },
+  {
+    "id": 301,
+    "idObra": 2,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 302,
+    "idObra": 2,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 303,
+    "idObra": 2,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 304,
+    "idObra": 2,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 305,
+    "idObra": 2,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 306,
+    "idObra": 2,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 307,
+    "idObra": 2,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 308,
+    "idObra": 2,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 309,
+    "idObra": 2,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 310,
+    "idObra": 2,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 311,
+    "idObra": 2,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 312,
+    "idObra": 2,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 313,
+    "idObra": 2,
+    "numeroAsiento": "2D",
+    "reservado": false
+  },
+  {
+    "id": 314,
+    "idObra": 2,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 315,
+    "idObra": 2,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 316,
+    "idObra": 2,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 317,
+    "idObra": 2,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 318,
+    "idObra": 2,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 319,
+    "idObra": 2,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 320,
+    "idObra": 2,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 321,
+    "idObra": 2,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 322,
+    "idObra": 2,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 323,
+    "idObra": 2,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 324,
+    "idObra": 2,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 325,
+    "idObra": 2,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 326,
+    "idObra": 2,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 327,
+    "idObra": 2,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 328,
+    "idObra": 2,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 329,
+    "idObra": 2,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 330,
+    "idObra": 2,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 331,
+    "idObra": 2,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 332,
+    "idObra": 2,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 333,
+    "idObra": 2,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 334,
+    "idObra": 2,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 335,
+    "idObra": 2,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 336,
+    "idObra": 2,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 337,
+    "idObra": 2,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 338,
+    "idObra": 2,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 339,
+    "idObra": 2,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 340,
+    "idObra": 2,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 341,
+    "idObra": 2,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 342,
+    "idObra": 2,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 343,
+    "idObra": 2,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 344,
+    "idObra": 2,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 345,
+    "idObra": 2,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 346,
+    "idObra": 2,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 347,
+    "idObra": 2,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 348,
+    "idObra": 2,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 349,
+    "idObra": 2,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 350,
+    "idObra": 2,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 351,
+    "idObra": 2,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 352,
+    "idObra": 2,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 353,
+    "idObra": 2,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 354,
+    "idObra": 2,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 355,
+    "idObra": 2,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 356,
+    "idObra": 2,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 357,
+    "idObra": 2,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 358,
+    "idObra": 2,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 359,
+    "idObra": 2,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 360,
+    "idObra": 2,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 361,
+    "idObra": 2,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 362,
+    "idObra": 2,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 363,
+    "idObra": 2,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 364,
+    "idObra": 2,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 365,
+    "idObra": 2,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 366,
+    "idObra": 2,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 367,
+    "idObra": 2,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 368,
+    "idObra": 2,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 369,
+    "idObra": 2,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 370,
+    "idObra": 2,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 371,
+    "idObra": 2,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 372,
+    "idObra": 2,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 373,
+    "idObra": 2,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 374,
+    "idObra": 2,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 375,
+    "idObra": 2,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 376,
+    "idObra": 2,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 377,
+    "idObra": 2,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 378,
+    "idObra": 2,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 379,
+    "idObra": 2,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 380,
+    "idObra": 2,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 381,
+    "idObra": 2,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 382,
+    "idObra": 2,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 383,
+    "idObra": 2,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 384,
+    "idObra": 2,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 385,
+    "idObra": 2,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 386,
+    "idObra": 2,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 387,
+    "idObra": 2,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 388,
+    "idObra": 2,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 389,
+    "idObra": 2,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 390,
+    "idObra": 2,
+    "numeroAsiento": "10A",
+    "reservada": false
+  },
+  {
+    "id": 391,
+    "idObra": 2,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 392,
+    "idObra": 2,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 393,
+    "idObra": 2,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 394,
+    "idObra": 2,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 395,
+    "idObra": 2,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 396,
+    "idObra": 2,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 397,
+    "idObra": 2,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 398,
+    "idObra": 2,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 399,
+    "idObra": 2,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 400,
+    "idObra": 2,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 401,
+    "idObra": 2,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 402,
+    "idObra": 2,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 403,
+    "idObra": 2,
+    "numeroAsiento": "11D",
+    "reservada": false
+  },
+  {
+    "id": 404,
+    "idObra": 2,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 405,
+    "idObra": 2,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 406,
+    "idObra": 2,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 407,
+    "idObra": 2,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 408,
+    "idObra": 2,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 409,
+    "idObra": 2,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 410,
+    "idObra": 2,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 411,
+    "idObra": 2,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 412,
+    "idObra": 2,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 413,
+    "idObra": 2,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 414,
+    "idObra": 2,
+    "numeroAsiento": "12E",
+    "reservada": false
+  },
+  {
+    "id": 415,
+    "idObra": 2,
+    "numeroAsiento": "12F",
+    "reservada": false
+  },
+  {
+    "id": 416,
+    "idObra": 2,
+    "numeroAsiento": "12G",
+    "reservada": false
+  },
+  {
+    "id": 417,
+    "idObra": 2,
+    "numeroAsiento": "12H",
+    "reservada": false
+  },
+  {
+    "id": 418,
+    "idObra": 2,
+    "numeroAsiento": "12I",
+    "reservada": false
+  },
+  {
+    "id": 419,
+    "idObra": 2,
+    "numeroAsiento": "12J",
+    "reservada": false
+  },
+  {
+    "id": 420,
+    "idObra": 2,
+    "numeroAsiento": "13A",
+    "reservada": false
+  },
+  {
+    "id": 421,
+    "idObra": 2,
+    "numeroAsiento": "13B",
+    "reservada": false
+  },
+  {
+    "id": 422,
+    "idObra": 2,
+    "numeroAsiento": "13C",
+    "reservada": false
+  },
+  {
+    "id": 423,
+    "idObra": 2,
+    "numeroAsiento": "13D",
+    "reservada": false
+  },
+  {
+    "id": 424,
+    "idObra": 2,
+    "numeroAsiento": "13E",
+    "reservada": false
+  },
+  {
+    "id": 425,
+    "idObra": 2,
+    "numeroAsiento": "13F",
+    "reservada": false
+  },
+  {
+    "id": 426,
+    "idObra": 2,
+    "numeroAsiento": "13G",
+    "reservada": false
+  },
+  {
+    "id": 427,
+    "idObra": 2,
+    "numeroAsiento": "13H",
+    "reservada": false
+  },
+  {
+    "id": 428,
+    "idObra": 2,
+    "numeroAsiento": "13I",
+    "reservada": false
+  },
+  {
+    "id": 429,
+    "idObra": 2,
+    "numeroAsiento": "13J",
+    "reservada": false
+  },
+  {
+    "id": 430,
+    "idObra": 2,
+    "numeroAsiento": "14A",
+    "reservada": false
+  },
+  {
+    "id": 431,
+    "idObra": 2,
+    "numeroAsiento": "14B",
+    "reservada": false
+  },
+  {
+    "id": 432,
+    "idObra": 2,
+    "numeroAsiento": "14C",
+    "reservada": false
+  },
+  {
+    "id": 433,
+    "idObra": 2,
+    "numeroAsiento": "14D",
+    "reservada": false
+  },
+  {
+    "id": 434,
+    "idObra": 2,
+    "numeroAsiento": "14E",
+    "reservada": false
+  },
+  {
+    "id": 435,
+    "idObra": 2,
+    "numeroAsiento": "14F",
+    "reservada": false
+  },
+  {
+    "id": 436,
+    "idObra": 2,
+    "numeroAsiento": "14G",
+    "reservada": false
+  },
+  {
+    "id": 437,
+    "idObra": 2,
+    "numeroAsiento": "14H",
+    "reservada": false
+  },
+  {
+    "id": 438,
+    "idObra": 2,
+    "numeroAsiento": "14I",
+    "reservada": false
+  },
+  {
+    "id": 439,
+    "idObra": 2,
+    "numeroAsiento": "14J",
+    "reservada": false
+  },
+  {
+    "id": 440,
+    "idObra": 2,
+    "numeroAsiento": "15A",
+    "reservada": false
+  },
+  {
+    "id": 441,
+    "idObra": 2,
+    "numeroAsiento": "15B",
+    "reservada": false
+  },
+  {
+    "id": 442,
+    "idObra": 2,
+    "numeroAsiento": "15C",
+    "reservada": false
+  },
+  {
+    "id": 443,
+    "idObra": 2,
+    "numeroAsiento": "15D",
+    "reservada": false
+  },
+  {
+    "id": 444,
+    "idObra": 2,
+    "numeroAsiento": "15E",
+    "reservada": false
+  },
+  {
+    "id": 445,
+    "idObra": 2,
+    "numeroAsiento": "15F",
+    "reservada": false
+  },
+  {
+    "id": 446,
+    "idObra": 2,
+    "numeroAsiento": "15G",
+    "reservada": false
+  },
+  {
+    "id": 447,
+    "idObra": 2,
+    "numeroAsiento": "15H",
+    "reservada": false
+  },
+  {
+    "id": 448,
+    "idObra": 2,
+    "numeroAsiento": "15I",
+    "reservada": false
+  },
+  {
+    "id": 449,
+    "idObra": 2,
+    "numeroAsiento": "15J",
+    "reservada": false
+  },
+  {
+    "id": 450,
+    "idObra": 2,
+    "numeroAsiento": "16A",
+    "reservada": false
+  },
+  {
+    "id": 451,
+    "idObra": 2,
+    "numeroAsiento": "16B",
+    "reservada": false
+  },
+  {
+    "id": 452,
+    "idObra": 2,
+    "numeroAsiento": "16C",
+    "reservada": false
+  },
+  {
+    "id": 453,
+    "idObra": 2,
+    "numeroAsiento": "16D",
+    "reservada": false
+  },
+  {
+    "id": 454,
+    "idObra": 2,
+    "numeroAsiento": "16E",
+    "reservada": false
+  },
+  {
+    "id": 455,
+    "idObra": 2,
+    "numeroAsiento": "16F",
+    "reservada": false
+  },
+  {
+    "id": 456,
+    "idObra": 2,
+    "numeroAsiento": "16G",
+    "reservada": false
+  },
+  {
+    "id": 457,
+    "idObra": 2,
+    "numeroAsiento": "16H",
+    "reservada": false
+  },
+  {
+    "id": 458,
+    "idObra": 2,
+    "numeroAsiento": "16I",
+    "reservada": false
+  },
+  {
+    "id": 459,
+    "idObra": 2,
+    "numeroAsiento": "16J",
+    "reservada": false
+  },
+  {
+    "id": 460,
+    "idObra": 2,
+    "numeroAsiento": "17A",
+    "reservada": false
+  },
+  {
+    "id": 461,
+    "idObra": 2,
+    "numeroAsiento": "17B",
+    "reservada": false
+  },
+  {
+    "id": 462,
+    "idObra": 2,
+    "numeroAsiento": "17C",
+    "reservada": false
+  },
+  {
+    "id": 463,
+    "idObra": 2,
+    "numeroAsiento": "17D",
+    "reservada": false
+  },
+  {
+    "id": 464,
+    "idObra": 2,
+    "numeroAsiento": "17E",
+    "reservada": false
+  },
+  {
+    "id": 465,
+    "idObra": 2,
+    "numeroAsiento": "17F",
+    "reservada": false
+  },
+  {
+    "id": 466,
+    "idObra": 2,
+    "numeroAsiento": "17G",
+    "reservada": false
+  },
+  {
+    "id": 467,
+    "idObra": 2,
+    "numeroAsiento": "17H",
+    "reservada": false
+  },
+  {
+    "id": 468,
+    "idObra": 2,
+    "numeroAsiento": "17I",
+    "reservada": false
+  },
+  {
+    "id": 469,
+    "idObra": 2,
+    "numeroAsiento": "17J",
+    "reservada": false
+  },
+  {
+    "id": 470,
+    "idObra": 2,
+    "numeroAsiento": "18A",
+    "reservada": false
+  },
+  {
+    "id": 471,
+    "idObra": 2,
+    "numeroAsiento": "18B",
+    "reservada": false
+  },
+  {
+    "id": 472,
+    "idObra": 2,
+    "numeroAsiento": "18C",
+    "reservada": false
+  },
+  {
+    "id": 473,
+    "idObra": 2,
+    "numeroAsiento": "18D",
+    "reservada": false
+  },
+  {
+    "id": 474,
+    "idObra": 2,
+    "numeroAsiento": "18E",
+    "reservada": false
+  },
+  {
+    "id": 475,
+    "idObra": 2,
+    "numeroAsiento": "18F",
+    "reservada": false
+  },
+  {
+    "id": 476,
+    "idObra": 2,
+    "numeroAsiento": "18G",
+    "reservada": false
+  },
+  {
+    "id": 477,
+    "idObra": 2,
+    "numeroAsiento": "18H",
+    "reservada": false
+  },
+  {
+    "id": 478,
+    "idObra": 2,
+    "numeroAsiento": "18I",
+    "reservada": false
+  },
+  {
+    "id": 479,
+    "idObra": 2,
+    "numeroAsiento": "18J",
+    "reservada": false
+  },
+  {
+    "id": 480,
+    "idObra": 2,
+    "numeroAsiento": "19A",
+    "reservada": false
+  },
+  {
+    "id": 481,
+    "idObra": 2,
+    "numeroAsiento": "19B",
+    "reservada": false
+  },
+  {
+    "id": 482,
+    "idObra": 2,
+    "numeroAsiento": "19C",
+    "reservada": false
+  },
+  {
+    "id": 483,
+    "idObra": 2,
+    "numeroAsiento": "19D",
+    "reservada": false
+  },
+  {
+    "id": 484,
+    "idObra": 2,
+    "numeroAsiento": "19E",
+    "reservada": false
+  },
+  {
+    "id": 485,
+    "idObra": 2,
+    "numeroAsiento": "19F",
+    "reservada": false
+  },
+  {
+    "id": 486,
+    "idObra": 2,
+    "numeroAsiento": "19G",
+    "reservada": false
+  },
+  {
+    "id": 487,
+    "idObra": 2,
+    "numeroAsiento": "19H",
+    "reservada": false
+  },
+  {
+    "id": 488,
+    "idObra": 2,
+    "numeroAsiento": "19I",
+    "reservada": false
+  },
+  {
+    "id": 489,
+    "idObra": 3,
+    "numeroAsiento": "1A",
+    "reservada": false
+  },
+  {
+    "id": 490,
+    "idObra": 3,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 491,
+    "idObra": 3,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 492,
+    "idObra": 3,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 493,
+    "idObra": 3,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 494,
+    "idObra": 3,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 495,
+    "idObra": 3,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 496,
+    "idObra": 3,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 497,
+    "idObra": 3,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 498,
+    "idObra": 3,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 499,
+    "idObra": 3,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 500,
+    "idObra": 3,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 501,
+    "idObra": 3,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 502,
+    "idObra": 3,
+    "numeroAsiento": "2D",
+    "reservada": false
+  },
+  {
+    "id": 503,
+    "idObra": 3,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 504,
+    "idObra": 3,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 505,
+    "idObra": 3,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 506,
+    "idObra": 3,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 507,
+    "idObra": 3,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 508,
+    "idObra": 3,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 509,
+    "idObra": 3,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 510,
+    "idObra": 3,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 511,
+    "idObra": 3,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 512,
+    "idObra": 3,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 513,
+    "idObra": 3,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 514,
+    "idObra": 3,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 515,
+    "idObra": 3,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 516,
+    "idObra": 3,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 517,
+    "idObra": 3,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 518,
+    "idObra": 3,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 519,
+    "idObra": 3,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 520,
+    "idObra": 3,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 521,
+    "idObra": 3,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 522,
+    "idObra": 3,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 523,
+    "idObra": 3,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 524,
+    "idObra": 3,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 525,
+    "idObra": 3,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 526,
+    "idObra": 3,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 527,
+    "idObra": 3,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 528,
+    "idObra": 3,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 529,
+    "idObra": 3,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 530,
+    "idObra": 3,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 531,
+    "idObra": 3,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 532,
+    "idObra": 3,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 533,
+    "idObra": 3,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 534,
+    "idObra": 3,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 535,
+    "idObra": 3,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 536,
+    "idObra": 3,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 537,
+    "idObra": 3,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 538,
+    "idObra": 3,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 539,
+    "idObra": 3,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 540,
+    "idObra": 3,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 541,
+    "idObra": 4,
+    "numeroAsiento": "1A",
+    "reservado": true
+  },
+  {
+    "id": 542,
+    "idObra": 4,
+    "numeroAsiento": "1B",
+    "reservado": true
+  },
+  {
+    "id": 543,
+    "idObra": 4,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 544,
+    "idObra": 4,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 545,
+    "idObra": 4,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 546,
+    "idObra": 4,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 547,
+    "idObra": 4,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 548,
+    "idObra": 4,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 549,
+    "idObra": 4,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 550,
+    "idObra": 4,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 551,
+    "idObra": 4,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 552,
+    "idObra": 4,
+    "numeroAsiento": "2B",
+    "reservado": true
+  },
+  {
+    "id": 553,
+    "idObra": 4,
+    "numeroAsiento": "2C",
+    "reservado": true
+  },
+  {
+    "id": 554,
+    "idObra": 4,
+    "numeroAsiento": "2D",
+    "reservado": true
+  },
+  {
+    "id": 555,
+    "idObra": 4,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 556,
+    "idObra": 4,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 557,
+    "idObra": 4,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 558,
+    "idObra": 4,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 559,
+    "idObra": 4,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 560,
+    "idObra": 4,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 561,
+    "idObra": 4,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 562,
+    "idObra": 4,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 563,
+    "idObra": 4,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 564,
+    "idObra": 4,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 565,
+    "idObra": 4,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 566,
+    "idObra": 4,
+    "numeroAsiento": "3F",
+    "reservado": true
+  },
+  {
+    "id": 567,
+    "idObra": 4,
+    "numeroAsiento": "3G",
+    "reservado": true
+  },
+  {
+    "id": 568,
+    "idObra": 4,
+    "numeroAsiento": "3H",
+    "reservado": true
+  },
+  {
+    "id": 569,
+    "idObra": 4,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 570,
+    "idObra": 4,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 571,
+    "idObra": 4,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 572,
+    "idObra": 4,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 573,
+    "idObra": 4,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 574,
+    "idObra": 4,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 575,
+    "idObra": 4,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 576,
+    "idObra": 4,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 577,
+    "idObra": 4,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 578,
+    "idObra": 4,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 579,
+    "idObra": 4,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 580,
+    "idObra": 4,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 581,
+    "idObra": 4,
+    "numeroAsiento": "5A",
+    "reservado": true
+  },
+  {
+    "id": 582,
+    "idObra": 4,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 583,
+    "idObra": 4,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 584,
+    "idObra": 4,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 585,
+    "idObra": 4,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 586,
+    "idObra": 4,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 587,
+    "idObra": 4,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 588,
+    "idObra": 4,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 589,
+    "idObra": 4,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 590,
+    "idObra": 4,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 591,
+    "idObra": 4,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 592,
+    "idObra": 4,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 593,
+    "idObra": 4,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 594,
+    "idObra": 4,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 595,
+    "idObra": 4,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 596,
+    "idObra": 4,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 597,
+    "idObra": 4,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 598,
+    "idObra": 4,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 599,
+    "idObra": 4,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 600,
+    "idObra": 4,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 601,
+    "idObra": 4,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 602,
+    "idObra": 4,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 603,
+    "idObra": 4,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 604,
+    "idObra": 4,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 605,
+    "idObra": 4,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 606,
+    "idObra": 4,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 607,
+    "idObra": 4,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 608,
+    "idObra": 4,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 609,
+    "idObra": 4,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 610,
+    "idObra": 4,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 611,
+    "idObra": 4,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 612,
+    "idObra": 4,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 613,
+    "idObra": 4,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 614,
+    "idObra": 4,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 615,
+    "idObra": 4,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 616,
+    "idObra": 4,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 617,
+    "idObra": 4,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 618,
+    "idObra": 4,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 619,
+    "idObra": 4,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 620,
+    "idObra": 4,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 621,
+    "idObra": 4,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 622,
+    "idObra": 4,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 623,
+    "idObra": 4,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 624,
+    "idObra": 4,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 625,
+    "idObra": 4,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 626,
+    "idObra": 4,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 627,
+    "idObra": 4,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 628,
+    "idObra": 4,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 629,
+    "idObra": 4,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 630,
+    "idObra": 4,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 631,
+    "idObra": 4,
+    "numeroAsiento": "10A",
+    "reservado": true
+  },
+  {
+    "id": 632,
+    "idObra": 4,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 633,
+    "idObra": 4,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 634,
+    "idObra": 4,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 635,
+    "idObra": 4,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 636,
+    "idObra": 4,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 637,
+    "idObra": 4,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 638,
+    "idObra": 4,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 639,
+    "idObra": 4,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 640,
+    "idObra": 4,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 641,
+    "idObra": 4,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 642,
+    "idObra": 4,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 643,
+    "idObra": 4,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 644,
+    "idObra": 4,
+    "numeroAsiento": "11D",
+    "reservado": true
+  },
+  {
+    "id": 645,
+    "idObra": 4,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 646,
+    "idObra": 4,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 647,
+    "idObra": 4,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 648,
+    "idObra": 4,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 649,
+    "idObra": 4,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 650,
+    "idObra": 4,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 651,
+    "idObra": 4,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 652,
+    "idObra": 4,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 653,
+    "idObra": 4,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 654,
+    "idObra": 4,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 655,
+    "idObra": 4,
+    "numeroAsiento": "12E",
+    "reservada": false
+  },
+  {
+    "id": 656,
+    "idObra": 4,
+    "numeroAsiento": "12F",
+    "reservada": false
+  },
+  {
+    "id": 657,
+    "idObra": 4,
+    "numeroAsiento": "12G",
+    "reservada": false
+  },
+  {
+    "id": 658,
+    "idObra": 4,
+    "numeroAsiento": "12H",
+    "reservada": false
+  },
+  {
+    "id": 659,
+    "idObra": 4,
+    "numeroAsiento": "12I",
+    "reservada": false
+  },
+  {
+    "id": 660,
+    "idObra": 4,
+    "numeroAsiento": "12J",
+    "reservada": false
+  },
+  {
+    "id": 661,
+    "idObra": 4,
+    "numeroAsiento": "13A",
+    "reservada": false
+  },
+  {
+    "id": 662,
+    "idObra": 4,
+    "numeroAsiento": "13B",
+    "reservada": false
+  },
+  {
+    "id": 663,
+    "idObra": 4,
+    "numeroAsiento": "13C",
+    "reservada": false
+  },
+  {
+    "id": 664,
+    "idObra": 4,
+    "numeroAsiento": "13D",
+    "reservada": false
+  },
+  {
+    "id": 665,
+    "idObra": 4,
+    "numeroAsiento": "13E",
+    "reservada": false
+  },
+  {
+    "id": 666,
+    "idObra": 4,
+    "numeroAsiento": "13F",
+    "reservada": false
+  },
+  {
+    "id": 667,
+    "idObra": 4,
+    "numeroAsiento": "13G",
+    "reservada": false
+  },
+  {
+    "id": 668,
+    "idObra": 4,
+    "numeroAsiento": "13H",
+    "reservada": false
+  },
+  {
+    "id": 669,
+    "idObra": 4,
+    "numeroAsiento": "13I",
+    "reservada": false
+  },
+  {
+    "id": 670,
+    "idObra": 4,
+    "numeroAsiento": "13J",
+    "reservada": false
+  },
+  {
+    "id": 671,
+    "idObra": 4,
+    "numeroAsiento": "14A",
+    "reservada": false
+  },
+  {
+    "id": 672,
+    "idObra": 4,
+    "numeroAsiento": "14B",
+    "reservada": false
+  },
+  {
+    "id": 673,
+    "idObra": 4,
+    "numeroAsiento": "14C",
+    "reservada": false
+  },
+  {
+    "id": 674,
+    "idObra": 4,
+    "numeroAsiento": "14D",
+    "reservada": false
+  },
+  {
+    "id": 675,
+    "idObra": 4,
+    "numeroAsiento": "14E",
+    "reservada": false
+  },
+  {
+    "id": 676,
+    "idObra": 4,
+    "numeroAsiento": "14F",
+    "reservada": false
+  },
+  {
+    "id": 677,
+    "idObra": 4,
+    "numeroAsiento": "14G",
+    "reservada": false
+  },
+  {
+    "id": 678,
+    "idObra": 4,
+    "numeroAsiento": "14H",
+    "reservada": false
+  },
+  {
+    "id": 679,
+    "idObra": 4,
+    "numeroAsiento": "14I",
+    "reservada": false
+  },
+  {
+    "id": 680,
+    "idObra": 4,
+    "numeroAsiento": "14J",
+    "reservada": false
+  },
+  {
+    "id": 681,
+    "idObra": 4,
+    "numeroAsiento": "15A",
+    "reservada": false
+  },
+  {
+    "id": 682,
+    "idObra": 4,
+    "numeroAsiento": "15B",
+    "reservada": false
+  },
+  {
+    "id": 683,
+    "idObra": 4,
+    "numeroAsiento": "15C",
+    "reservada": false
+  },
+  {
+    "id": 684,
+    "idObra": 4,
+    "numeroAsiento": "15D",
+    "reservada": false
+  },
+  {
+    "id": 685,
+    "idObra": 4,
+    "numeroAsiento": "15E",
+    "reservada": false
+  },
+  {
+    "id": 686,
+    "idObra": 4,
+    "numeroAsiento": "15F",
+    "reservada": false
+  },
+  {
+    "id": 687,
+    "idObra": 4,
+    "numeroAsiento": "15G",
+    "reservada": false
+  },
+  {
+    "id": 688,
+    "idObra": 4,
+    "numeroAsiento": "15H",
+    "reservada": false
+  },
+  {
+    "id": 689,
+    "idObra": 4,
+    "numeroAsiento": "15I",
+    "reservada": false
+  },
+  {
+    "id": 690,
+    "idObra": 4,
+    "numeroAsiento": "15J",
+    "reservado": true
+  },
+  {
+    "id": 691,
+    "idObra": 5,
+    "numeroAsiento": "1A",
+    "reservada": false
+  },
+  {
+    "id": 692,
+    "idObra": 5,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 693,
+    "idObra": 5,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 694,
+    "idObra": 5,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 695,
+    "idObra": 5,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 696,
+    "idObra": 5,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 697,
+    "idObra": 5,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 698,
+    "idObra": 5,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 699,
+    "idObra": 5,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 700,
+    "idObra": 5,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 701,
+    "idObra": 5,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 702,
+    "idObra": 5,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 703,
+    "idObra": 5,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 704,
+    "idObra": 5,
+    "numeroAsiento": "2D",
+    "reservada": false
+  },
+  {
+    "id": 705,
+    "idObra": 5,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 706,
+    "idObra": 5,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 707,
+    "idObra": 5,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 708,
+    "idObra": 5,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 709,
+    "idObra": 5,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 710,
+    "idObra": 5,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 711,
+    "idObra": 5,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 712,
+    "idObra": 5,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 713,
+    "idObra": 5,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 714,
+    "idObra": 5,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 715,
+    "idObra": 5,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 716,
+    "idObra": 5,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 717,
+    "idObra": 5,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 718,
+    "idObra": 5,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 719,
+    "idObra": 5,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 720,
+    "idObra": 5,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 721,
+    "idObra": 5,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 722,
+    "idObra": 5,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 723,
+    "idObra": 5,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 724,
+    "idObra": 5,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 725,
+    "idObra": 5,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 726,
+    "idObra": 5,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 727,
+    "idObra": 5,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 728,
+    "idObra": 5,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 729,
+    "idObra": 5,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 730,
+    "idObra": 5,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 731,
+    "idObra": 5,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 732,
+    "idObra": 5,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 733,
+    "idObra": 5,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 734,
+    "idObra": 5,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 735,
+    "idObra": 5,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 736,
+    "idObra": 5,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 737,
+    "idObra": 5,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 738,
+    "idObra": 5,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 739,
+    "idObra": 5,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 740,
+    "idObra": 5,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 741,
+    "idObra": 5,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 742,
+    "idObra": 5,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 743,
+    "idObra": 5,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 744,
+    "idObra": 5,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 745,
+    "idObra": 5,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 746,
+    "idObra": 5,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 747,
+    "idObra": 5,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 748,
+    "idObra": 5,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 749,
+    "idObra": 5,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 750,
+    "idObra": 5,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 751,
+    "idObra": 5,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 752,
+    "idObra": 5,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 753,
+    "idObra": 5,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 754,
+    "idObra": 5,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 755,
+    "idObra": 5,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 756,
+    "idObra": 5,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 757,
+    "idObra": 5,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 758,
+    "idObra": 5,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 759,
+    "idObra": 5,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 760,
+    "idObra": 5,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 761,
+    "idObra": 5,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 762,
+    "idObra": 5,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 763,
+    "idObra": 5,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 764,
+    "idObra": 5,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 765,
+    "idObra": 5,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 766,
+    "idObra": 5,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 767,
+    "idObra": 5,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 768,
+    "idObra": 5,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 769,
+    "idObra": 5,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 770,
+    "idObra": 5,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 771,
+    "idObra": 5,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 772,
+    "idObra": 5,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 773,
+    "idObra": 5,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 774,
+    "idObra": 5,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 775,
+    "idObra": 5,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 776,
+    "idObra": 5,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 777,
+    "idObra": 5,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 778,
+    "idObra": 5,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 779,
+    "idObra": 5,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 780,
+    "idObra": 5,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 781,
+    "idObra": 5,
+    "numeroAsiento": "10A",
+    "reservada": false
+  },
+  {
+    "id": 782,
+    "idObra": 5,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 783,
+    "idObra": 5,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 784,
+    "idObra": 5,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 785,
+    "idObra": 5,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 786,
+    "idObra": 5,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 787,
+    "idObra": 5,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 788,
+    "idObra": 5,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 789,
+    "idObra": 5,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 790,
+    "idObra": 5,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 791,
+    "idObra": 5,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 792,
+    "idObra": 5,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 793,
+    "idObra": 5,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 794,
+    "idObra": 5,
+    "numeroAsiento": "11D",
+    "reservada": false
+  },
+  {
+    "id": 795,
+    "idObra": 5,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 796,
+    "idObra": 5,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 797,
+    "idObra": 5,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 798,
+    "idObra": 5,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 799,
+    "idObra": 5,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 800,
+    "idObra": 5,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 801,
+    "idObra": 5,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 802,
+    "idObra": 5,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 803,
+    "idObra": 5,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 804,
+    "idObra": 5,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 805,
+    "idObra": 5,
+    "numeroAsiento": "12E",
+    "reservada": false
+  },
+  {
+    "id": 806,
+    "idObra": 5,
+    "numeroAsiento": "12F",
+    "reservada": false
+  },
+  {
+    "id": 807,
+    "idObra": 5,
+    "numeroAsiento": "12G",
+    "reservada": false
+  },
+  {
+    "id": 808,
+    "idObra": 5,
+    "numeroAsiento": "12H",
+    "reservada": false
+  },
+  {
+    "id": 809,
+    "idObra": 5,
+    "numeroAsiento": "12I",
+    "reservada": false
+  },
+  {
+    "id": 810,
+    "idObra": 5,
+    "numeroAsiento": "12J",
+    "reservada": false
+  },
+  {
+    "id": 811,
+    "idObra": 5,
+    "numeroAsiento": "13A",
+    "reservada": false
+  },
+  {
+    "id": 812,
+    "idObra": 5,
+    "numeroAsiento": "13B",
+    "reservada": false
+  },
+  {
+    "id": 813,
+    "idObra": 5,
+    "numeroAsiento": "13C",
+    "reservada": false
+  },
+  {
+    "id": 814,
+    "idObra": 5,
+    "numeroAsiento": "13D",
+    "reservada": false
+  },
+  {
+    "id": 815,
+    "idObra": 5,
+    "numeroAsiento": "13E",
+    "reservada": false
+  },
+  {
+    "id": 816,
+    "idObra": 5,
+    "numeroAsiento": "13F",
+    "reservada": false
+  },
+  {
+    "id": 817,
+    "idObra": 5,
+    "numeroAsiento": "13G",
+    "reservada": false
+  },
+  {
+    "id": 818,
+    "idObra": 5,
+    "numeroAsiento": "13H",
+    "reservada": false
+  },
+  {
+    "id": 819,
+    "idObra": 5,
+    "numeroAsiento": "13I",
+    "reservada": false
+  },
+  {
+    "id": 820,
+    "idObra": 5,
+    "numeroAsiento": "13J",
+    "reservada": false
+  },
+  {
+    "id": 821,
+    "idObra": 5,
+    "numeroAsiento": "14A",
+    "reservada": false
+  },
+  {
+    "id": 822,
+    "idObra": 5,
+    "numeroAsiento": "14B",
+    "reservada": false
+  },
+  {
+    "id": 823,
+    "idObra": 5,
+    "numeroAsiento": "14C",
+    "reservada": false
+  },
+  {
+    "id": 824,
+    "idObra": 5,
+    "numeroAsiento": "14D",
+    "reservada": false
+  },
+  {
+    "id": 825,
+    "idObra": 5,
+    "numeroAsiento": "14E",
+    "reservada": false
+  },
+  {
+    "id": 826,
+    "idObra": 5,
+    "numeroAsiento": "14F",
+    "reservada": false
+  },
+  {
+    "id": 827,
+    "idObra": 5,
+    "numeroAsiento": "14G",
+    "reservada": false
+  },
+  {
+    "id": 828,
+    "idObra": 5,
+    "numeroAsiento": "14H",
+    "reservada": false
+  },
+  {
+    "id": 829,
+    "idObra": 5,
+    "numeroAsiento": "14I",
+    "reservada": false
+  },
+  {
+    "id": 830,
+    "idObra": 5,
+    "numeroAsiento": "14J",
+    "reservada": false
+  },
+  {
+    "id": 831,
+    "idObra": 5,
+    "numeroAsiento": "15A",
+    "reservada": false
+  },
+  {
+    "id": 832,
+    "idObra": 5,
+    "numeroAsiento": "15B",
+    "reservada": false
+  },
+  {
+    "id": 833,
+    "idObra": 5,
+    "numeroAsiento": "15C",
+    "reservada": false
+  },
+  {
+    "id": 834,
+    "idObra": 5,
+    "numeroAsiento": "15D",
+    "reservada": false
+  },
+  {
+    "id": 835,
+    "idObra": 5,
+    "numeroAsiento": "15E",
+    "reservada": false
+  },
+  {
+    "id": 836,
+    "idObra": 5,
+    "numeroAsiento": "15F",
+    "reservada": false
+  },
+  {
+    "id": 837,
+    "idObra": 5,
+    "numeroAsiento": "15G",
+    "reservada": false
+  },
+  {
+    "id": 838,
+    "idObra": 5,
+    "numeroAsiento": "15H",
+    "reservada": false
+  },
+  {
+    "id": 839,
+    "idObra": 5,
+    "numeroAsiento": "15I",
+    "reservada": false
+  },
+  {
+    "id": 840,
+    "idObra": 5,
+    "numeroAsiento": "15J",
+    "reservada": false
+  },
+  {
+    "id": 841,
+    "idObra": 5,
+    "numeroAsiento": "16A",
+    "reservada": false
+  },
+  {
+    "id": 842,
+    "idObra": 5,
+    "numeroAsiento": "16B",
+    "reservada": false
+  },
+  {
+    "id": 843,
+    "idObra": 5,
+    "numeroAsiento": "16C",
+    "reservada": false
+  },
+  {
+    "id": 844,
+    "idObra": 5,
+    "numeroAsiento": "16D",
+    "reservada": false
+  },
+  {
+    "id": 845,
+    "idObra": 5,
+    "numeroAsiento": "16E",
+    "reservada": false
+  },
+  {
+    "id": 846,
+    "idObra": 5,
+    "numeroAsiento": "16F",
+    "reservada": false
+  },
+  {
+    "id": 847,
+    "idObra": 5,
+    "numeroAsiento": "16G",
+    "reservada": false
+  },
+  {
+    "id": 848,
+    "idObra": 5,
+    "numeroAsiento": "16H",
+    "reservada": false
+  },
+  {
+    "id": 849,
+    "idObra": 5,
+    "numeroAsiento": "16I",
+    "reservada": false
+  },
+  {
+    "id": 850,
+    "idObra": 5,
+    "numeroAsiento": "16J",
+    "reservada": false
+  },
+  {
+    "id": 851,
+    "idObra": 5,
+    "numeroAsiento": "17A",
+    "reservada": false
+  },
+  {
+    "id": 852,
+    "idObra": 5,
+    "numeroAsiento": "17B",
+    "reservada": false
+  },
+  {
+    "id": 853,
+    "idObra": 5,
+    "numeroAsiento": "17C",
+    "reservada": false
+  },
+  {
+    "id": 854,
+    "idObra": 5,
+    "numeroAsiento": "17D",
+    "reservada": false
+  },
+  {
+    "id": 855,
+    "idObra": 5,
+    "numeroAsiento": "17E",
+    "reservada": false
+  },
+  {
+    "id": 856,
+    "idObra": 5,
+    "numeroAsiento": "17F",
+    "reservada": false
+  },
+  {
+    "id": 857,
+    "idObra": 5,
+    "numeroAsiento": "17G",
+    "reservada": false
+  },
+  {
+    "id": 858,
+    "idObra": 5,
+    "numeroAsiento": "17H",
+    "reservada": false
+  },
+  {
+    "id": 859,
+    "idObra": 5,
+    "numeroAsiento": "17I",
+    "reservada": false
+  },
+  {
+    "id": 860,
+    "idObra": 5,
+    "numeroAsiento": "17J",
+    "reservada": false
+  },
+  {
+    "id": 861,
+    "idObra": 5,
+    "numeroAsiento": "18A",
+    "reservada": false
+  },
+  {
+    "id": 862,
+    "idObra": 5,
+    "numeroAsiento": "18B",
+    "reservada": false
+  },
+  {
+    "id": 863,
+    "idObra": 5,
+    "numeroAsiento": "18C",
+    "reservada": false
+  },
+  {
+    "id": 864,
+    "idObra": 5,
+    "numeroAsiento": "18D",
+    "reservada": false
+  },
+  {
+    "id": 865,
+    "idObra": 5,
+    "numeroAsiento": "18E",
+    "reservada": false
+  },
+  {
+    "id": 866,
+    "idObra": 5,
+    "numeroAsiento": "18F",
+    "reservada": false
+  },
+  {
+    "id": 867,
+    "idObra": 5,
+    "numeroAsiento": "18G",
+    "reservada": false
+  },
+  {
+    "id": 868,
+    "idObra": 5,
+    "numeroAsiento": "18H",
+    "reservada": false
+  },
+  {
+    "id": 869,
+    "idObra": 5,
+    "numeroAsiento": "18I",
+    "reservada": false
+  },
+  {
+    "id": 870,
+    "idObra": 5,
+    "numeroAsiento": "18J",
+    "reservada": false
+  },
+  {
+    "id": 871,
+    "idObra": 5,
+    "numeroAsiento": "19A",
+    "reservada": false
+  },
+  {
+    "id": 872,
+    "idObra": 5,
+    "numeroAsiento": "19B",
+    "reservada": false
+  },
+  {
+    "id": 873,
+    "idObra": 5,
+    "numeroAsiento": "19C",
+    "reservada": false
+  },
+  {
+    "id": 874,
+    "idObra": 5,
+    "numeroAsiento": "19D",
+    "reservada": false
+  },
+  {
+    "id": 875,
+    "idObra": 5,
+    "numeroAsiento": "19E",
+    "reservada": false
+  },
+  {
+    "id": 876,
+    "idObra": 5,
+    "numeroAsiento": "19F",
+    "reservada": false
+  },
+  {
+    "id": 877,
+    "idObra": 5,
+    "numeroAsiento": "19G",
+    "reservada": false
+  },
+  {
+    "id": 878,
+    "idObra": 5,
+    "numeroAsiento": "19H",
+    "reservada": false
+  },
+  {
+    "id": 879,
+    "idObra": 5,
+    "numeroAsiento": "19I",
+    "reservada": false
+  },
+  {
+    "id": 880,
+    "idObra": 5,
+    "numeroAsiento": "19J",
+    "reservada": false
+  },
+  {
+    "id": 881,
+    "idObra": 5,
+    "numeroAsiento": "20A",
+    "reservada": false
+  },
+  {
+    "id": 882,
+    "idObra": 5,
+    "numeroAsiento": "20B",
+    "reservada": false
+  },
+  {
+    "id": 883,
+    "idObra": 5,
+    "numeroAsiento": "20C",
+    "reservada": false
+  },
+  {
+    "id": 884,
+    "idObra": 5,
+    "numeroAsiento": "20D",
+    "reservada": false
+  },
+  {
+    "id": 885,
+    "idObra": 5,
+    "numeroAsiento": "20E",
+    "reservada": false
+  },
+  {
+    "id": 886,
+    "idObra": 5,
+    "numeroAsiento": "20F",
+    "reservada": false
+  },
+  {
+    "id": 887,
+    "idObra": 5,
+    "numeroAsiento": "20G",
+    "reservada": false
+  },
+  {
+    "id": 888,
+    "idObra": 5,
+    "numeroAsiento": "20H",
+    "reservada": false
+  },
+  {
+    "id": 889,
+    "idObra": 5,
+    "numeroAsiento": "20I",
+    "reservada": false
+  },
+  {
+    "id": 890,
+    "idObra": 5,
+    "numeroAsiento": "20J",
+    "reservada": false
+  },
+  {
+    "id": 891,
+    "idObra": 6,
+    "numeroAsiento": "1A",
+    "reservada": false
+  },
+  {
+    "id": 892,
+    "idObra": 6,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 893,
+    "idObra": 6,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 894,
+    "idObra": 6,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 895,
+    "idObra": 6,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 896,
+    "idObra": 6,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 897,
+    "idObra": 6,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 898,
+    "idObra": 6,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 899,
+    "idObra": 6,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 900,
+    "idObra": 6,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 901,
+    "idObra": 6,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 902,
+    "idObra": 6,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 903,
+    "idObra": 6,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 904,
+    "idObra": 6,
+    "numeroAsiento": "2D",
+    "reservada": false
+  },
+  {
+    "id": 905,
+    "idObra": 6,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 906,
+    "idObra": 6,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 907,
+    "idObra": 6,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 908,
+    "idObra": 6,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 909,
+    "idObra": 6,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 910,
+    "idObra": 6,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 911,
+    "idObra": 6,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 912,
+    "idObra": 6,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 913,
+    "idObra": 6,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 914,
+    "idObra": 6,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 915,
+    "idObra": 6,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 916,
+    "idObra": 6,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 917,
+    "idObra": 6,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 918,
+    "idObra": 6,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 919,
+    "idObra": 6,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 920,
+    "idObra": 6,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 921,
+    "idObra": 6,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 922,
+    "idObra": 6,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 923,
+    "idObra": 6,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 924,
+    "idObra": 6,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 925,
+    "idObra": 6,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 926,
+    "idObra": 6,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 927,
+    "idObra": 6,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 928,
+    "idObra": 6,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 929,
+    "idObra": 6,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 930,
+    "idObra": 6,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 931,
+    "idObra": 6,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 932,
+    "idObra": 6,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 933,
+    "idObra": 6,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 934,
+    "idObra": 6,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 935,
+    "idObra": 6,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 936,
+    "idObra": 6,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 937,
+    "idObra": 6,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 938,
+    "idObra": 6,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 939,
+    "idObra": 6,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 940,
+    "idObra": 6,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 941,
+    "idObra": 6,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 942,
+    "idObra": 6,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 943,
+    "idObra": 6,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 944,
+    "idObra": 6,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 945,
+    "idObra": 6,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 946,
+    "idObra": 6,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 947,
+    "idObra": 6,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 948,
+    "idObra": 6,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 949,
+    "idObra": 6,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 950,
+    "idObra": 6,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 951,
+    "idObra": 6,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 952,
+    "idObra": 6,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 953,
+    "idObra": 6,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 954,
+    "idObra": 6,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 955,
+    "idObra": 6,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 956,
+    "idObra": 6,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 957,
+    "idObra": 6,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 958,
+    "idObra": 6,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 959,
+    "idObra": 6,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 960,
+    "idObra": 6,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 961,
+    "idObra": 6,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 962,
+    "idObra": 6,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 963,
+    "idObra": 6,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 964,
+    "idObra": 6,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 965,
+    "idObra": 6,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 966,
+    "idObra": 6,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 967,
+    "idObra": 6,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 968,
+    "idObra": 6,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 969,
+    "idObra": 6,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 970,
+    "idObra": 6,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 971,
+    "idObra": 6,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 972,
+    "idObra": 6,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 973,
+    "idObra": 6,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 974,
+    "idObra": 6,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 975,
+    "idObra": 6,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 976,
+    "idObra": 6,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 977,
+    "idObra": 6,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 978,
+    "idObra": 6,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 979,
+    "idObra": 6,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 980,
+    "idObra": 6,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 981,
+    "idObra": 6,
+    "numeroAsiento": "10A",
+    "reservada": false
+  },
+  {
+    "id": 982,
+    "idObra": 6,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 983,
+    "idObra": 6,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 984,
+    "idObra": 6,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 985,
+    "idObra": 6,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 986,
+    "idObra": 6,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 987,
+    "idObra": 6,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 988,
+    "idObra": 6,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 989,
+    "idObra": 6,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 990,
+    "idObra": 6,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 991,
+    "idObra": 6,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 992,
+    "idObra": 6,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 993,
+    "idObra": 6,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 994,
+    "idObra": 6,
+    "numeroAsiento": "11D",
+    "reservada": false
+  },
+  {
+    "id": 995,
+    "idObra": 6,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 996,
+    "idObra": 6,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 997,
+    "idObra": 6,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 998,
+    "idObra": 6,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 999,
+    "idObra": 6,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 1000,
+    "idObra": 6,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 1001,
+    "idObra": 6,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 1002,
+    "idObra": 6,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 1003,
+    "idObra": 6,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 1004,
+    "idObra": 6,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 1005,
+    "idObra": 6,
+    "numeroAsiento": "12E",
+    "reservada": false
+  },
+  {
+    "id": 1006,
+    "idObra": 6,
+    "numeroAsiento": "12F",
+    "reservada": false
+  },
+  {
+    "id": 1007,
+    "idObra": 6,
+    "numeroAsiento": "12G",
+    "reservada": false
+  },
+  {
+    "id": 1008,
+    "idObra": 6,
+    "numeroAsiento": "12H",
+    "reservada": false
+  },
+  {
+    "id": 1009,
+    "idObra": 6,
+    "numeroAsiento": "12I",
+    "reservada": false
+  },
+  {
+    "id": 1010,
+    "idObra": 6,
+    "numeroAsiento": "12J",
+    "reservada": false
+  },
+  {
+    "id": 1011,
+    "idObra": 6,
+    "numeroAsiento": "13A",
+    "reservada": false
+  },
+  {
+    "id": 1012,
+    "idObra": 6,
+    "numeroAsiento": "13B",
+    "reservada": false
+  },
+  {
+    "id": 1013,
+    "idObra": 6,
+    "numeroAsiento": "13C",
+    "reservada": false
+  },
+  {
+    "id": 1014,
+    "idObra": 6,
+    "numeroAsiento": "13D",
+    "reservada": false
+  },
+  {
+    "id": 1015,
+    "idObra": 6,
+    "numeroAsiento": "13E",
+    "reservada": false
+  },
+  {
+    "id": 1016,
+    "idObra": 6,
+    "numeroAsiento": "13F",
+    "reservada": false
+  },
+  {
+    "id": 1017,
+    "idObra": 6,
+    "numeroAsiento": "13G",
+    "reservada": false
+  },
+  {
+    "id": 1018,
+    "idObra": 6,
+    "numeroAsiento": "13H",
+    "reservada": false
+  },
+  {
+    "id": 1019,
+    "idObra": 6,
+    "numeroAsiento": "13I",
+    "reservada": false
+  },
+  {
+    "id": 1020,
+    "idObra": 6,
+    "numeroAsiento": "13J",
+    "reservada": false
+  },
+  {
+    "id": 1021,
+    "idObra": 6,
+    "numeroAsiento": "14A",
+    "reservada": false
+  },
+  {
+    "id": 1022,
+    "idObra": 6,
+    "numeroAsiento": "14B",
+    "reservada": false
+  },
+  {
+    "id": 1023,
+    "idObra": 6,
+    "numeroAsiento": "14C",
+    "reservada": false
+  },
+  {
+    "id": 1024,
+    "idObra": 6,
+    "numeroAsiento": "14D",
+    "reservada": false
+  },
+  {
+    "id": 1025,
+    "idObra": 6,
+    "numeroAsiento": "14E",
+    "reservada": false
+  },
+  {
+    "id": 1026,
+    "idObra": 6,
+    "numeroAsiento": "14F",
+    "reservada": false
+  },
+  {
+    "id": 1027,
+    "idObra": 6,
+    "numeroAsiento": "14G",
+    "reservada": false
+  },
+  {
+    "id": 1028,
+    "idObra": 6,
+    "numeroAsiento": "14H",
+    "reservada": false
+  },
+  {
+    "id": 1029,
+    "idObra": 6,
+    "numeroAsiento": "14I",
+    "reservada": false
+  },
+  {
+    "id": 1030,
+    "idObra": 6,
+    "numeroAsiento": "14J",
+    "reservada": false
+  },
+  {
+    "id": 1031,
+    "idObra": 6,
+    "numeroAsiento": "15A",
+    "reservada": false
+  },
+  {
+    "id": 1032,
+    "idObra": 6,
+    "numeroAsiento": "15B",
+    "reservada": false
+  },
+  {
+    "id": 1033,
+    "idObra": 6,
+    "numeroAsiento": "15C",
+    "reservada": false
+  },
+  {
+    "id": 1034,
+    "idObra": 6,
+    "numeroAsiento": "15D",
+    "reservada": false
+  },
+  {
+    "id": 1035,
+    "idObra": 6,
+    "numeroAsiento": "15E",
+    "reservada": false
+  },
+  {
+    "id": 1036,
+    "idObra": 6,
+    "numeroAsiento": "15F",
+    "reservada": false
+  },
+  {
+    "id": 1037,
+    "idObra": 6,
+    "numeroAsiento": "15G",
+    "reservada": false
+  },
+  {
+    "id": 1038,
+    "idObra": 6,
+    "numeroAsiento": "15H",
+    "reservada": false
+  },
+  {
+    "id": 1039,
+    "idObra": 6,
+    "numeroAsiento": "15I",
+    "reservada": false
+  },
+  {
+    "id": 1040,
+    "idObra": 6,
+    "numeroAsiento": "15J",
+    "reservada": false
+  },
+  {
+    "id": 1041,
+    "idObra": 6,
+    "numeroAsiento": "16A",
+    "reservada": false
+  },
+  {
+    "id": 1042,
+    "idObra": 6,
+    "numeroAsiento": "16B",
+    "reservada": false
+  },
+  {
+    "id": 1043,
+    "idObra": 6,
+    "numeroAsiento": "16C",
+    "reservada": false
+  },
+  {
+    "id": 1044,
+    "idObra": 6,
+    "numeroAsiento": "16D",
+    "reservada": false
+  },
+  {
+    "id": 1045,
+    "idObra": 6,
+    "numeroAsiento": "16E",
+    "reservada": false
+  },
+  {
+    "id": 1046,
+    "idObra": 6,
+    "numeroAsiento": "16F",
+    "reservada": false
+  },
+  {
+    "id": 1047,
+    "idObra": 6,
+    "numeroAsiento": "16G",
+    "reservada": false
+  },
+  {
+    "id": 1048,
+    "idObra": 6,
+    "numeroAsiento": "16H",
+    "reservada": false
+  },
+  {
+    "id": 1049,
+    "idObra": 6,
+    "numeroAsiento": "16I",
+    "reservada": false
+  },
+  {
+    "id": 1050,
+    "idObra": 6,
+    "numeroAsiento": "16J",
+    "reservada": false
+  },
+  {
+    "id": 1051,
+    "idObra": 6,
+    "numeroAsiento": "17A",
+    "reservada": false
+  },
+  {
+    "id": 1052,
+    "idObra": 6,
+    "numeroAsiento": "17B",
+    "reservada": false
+  },
+  {
+    "id": 1053,
+    "idObra": 6,
+    "numeroAsiento": "17C",
+    "reservada": false
+  },
+  {
+    "id": 1054,
+    "idObra": 6,
+    "numeroAsiento": "17D",
+    "reservada": false
+  },
+  {
+    "id": 1055,
+    "idObra": 6,
+    "numeroAsiento": "17E",
+    "reservada": false
+  },
+  {
+    "id": 1056,
+    "idObra": 6,
+    "numeroAsiento": "17F",
+    "reservada": false
+  },
+  {
+    "id": 1057,
+    "idObra": 6,
+    "numeroAsiento": "17G",
+    "reservada": false
+  },
+  {
+    "id": 1058,
+    "idObra": 6,
+    "numeroAsiento": "17H",
+    "reservada": false
+  },
+  {
+    "id": 1059,
+    "idObra": 6,
+    "numeroAsiento": "17I",
+    "reservada": false
+  },
+  {
+    "id": 1060,
+    "idObra": 6,
+    "numeroAsiento": "17J",
+    "reservada": false
+  },
+  {
+    "id": 1061,
+    "idObra": 6,
+    "numeroAsiento": "18A",
+    "reservada": false
+  },
+  {
+    "id": 1062,
+    "idObra": 6,
+    "numeroAsiento": "18B",
+    "reservada": false
+  },
+  {
+    "id": 1063,
+    "idObra": 6,
+    "numeroAsiento": "18C",
+    "reservada": false
+  },
+  {
+    "id": 1064,
+    "idObra": 6,
+    "numeroAsiento": "18D",
+    "reservada": false
+  },
+  {
+    "id": 1065,
+    "idObra": 6,
+    "numeroAsiento": "18E",
+    "reservada": false
+  },
+  {
+    "id": 1066,
+    "idObra": 6,
+    "numeroAsiento": "18F",
+    "reservada": false
+  },
+  {
+    "id": 1067,
+    "idObra": 6,
+    "numeroAsiento": "18G",
+    "reservada": false
+  },
+  {
+    "id": 1068,
+    "idObra": 6,
+    "numeroAsiento": "18H",
+    "reservada": false
+  },
+  {
+    "id": 1069,
+    "idObra": 6,
+    "numeroAsiento": "18I",
+    "reservada": false
+  },
+  {
+    "id": 1070,
+    "idObra": 6,
+    "numeroAsiento": "18J",
+    "reservada": false
+  },
+  {
+    "id": 1071,
+    "idObra": 7,
+    "numeroAsiento": "1A",
+    "reservada": false
+  },
+  {
+    "id": 1072,
+    "idObra": 7,
+    "numeroAsiento": "1B",
+    "reservada": false
+  },
+  {
+    "id": 1073,
+    "idObra": 7,
+    "numeroAsiento": "1C",
+    "reservada": false
+  },
+  {
+    "id": 1074,
+    "idObra": 7,
+    "numeroAsiento": "1D",
+    "reservada": false
+  },
+  {
+    "id": 1075,
+    "idObra": 7,
+    "numeroAsiento": "1E",
+    "reservada": false
+  },
+  {
+    "id": 1076,
+    "idObra": 7,
+    "numeroAsiento": "1F",
+    "reservada": false
+  },
+  {
+    "id": 1077,
+    "idObra": 7,
+    "numeroAsiento": "1G",
+    "reservada": false
+  },
+  {
+    "id": 1078,
+    "idObra": 7,
+    "numeroAsiento": "1H",
+    "reservada": false
+  },
+  {
+    "id": 1079,
+    "idObra": 7,
+    "numeroAsiento": "1I",
+    "reservada": false
+  },
+  {
+    "id": 1080,
+    "idObra": 7,
+    "numeroAsiento": "1J",
+    "reservada": false
+  },
+  {
+    "id": 1081,
+    "idObra": 7,
+    "numeroAsiento": "2A",
+    "reservada": false
+  },
+  {
+    "id": 1082,
+    "idObra": 7,
+    "numeroAsiento": "2B",
+    "reservada": false
+  },
+  {
+    "id": 1083,
+    "idObra": 7,
+    "numeroAsiento": "2C",
+    "reservada": false
+  },
+  {
+    "id": 1084,
+    "idObra": 7,
+    "numeroAsiento": "2D",
+    "reservada": false
+  },
+  {
+    "id": 1085,
+    "idObra": 7,
+    "numeroAsiento": "2E",
+    "reservada": false
+  },
+  {
+    "id": 1086,
+    "idObra": 7,
+    "numeroAsiento": "2F",
+    "reservada": false
+  },
+  {
+    "id": 1087,
+    "idObra": 7,
+    "numeroAsiento": "2G",
+    "reservada": false
+  },
+  {
+    "id": 1088,
+    "idObra": 7,
+    "numeroAsiento": "2H",
+    "reservada": false
+  },
+  {
+    "id": 1089,
+    "idObra": 7,
+    "numeroAsiento": "2I",
+    "reservada": false
+  },
+  {
+    "id": 1090,
+    "idObra": 7,
+    "numeroAsiento": "2J",
+    "reservada": false
+  },
+  {
+    "id": 1091,
+    "idObra": 7,
+    "numeroAsiento": "3A",
+    "reservada": false
+  },
+  {
+    "id": 1092,
+    "idObra": 7,
+    "numeroAsiento": "3B",
+    "reservada": false
+  },
+  {
+    "id": 1093,
+    "idObra": 7,
+    "numeroAsiento": "3C",
+    "reservada": false
+  },
+  {
+    "id": 1094,
+    "idObra": 7,
+    "numeroAsiento": "3D",
+    "reservada": false
+  },
+  {
+    "id": 1095,
+    "idObra": 7,
+    "numeroAsiento": "3E",
+    "reservada": false
+  },
+  {
+    "id": 1096,
+    "idObra": 7,
+    "numeroAsiento": "3F",
+    "reservada": false
+  },
+  {
+    "id": 1097,
+    "idObra": 7,
+    "numeroAsiento": "3G",
+    "reservada": false
+  },
+  {
+    "id": 1098,
+    "idObra": 7,
+    "numeroAsiento": "3H",
+    "reservada": false
+  },
+  {
+    "id": 1099,
+    "idObra": 7,
+    "numeroAsiento": "3I",
+    "reservada": false
+  },
+  {
+    "id": 1100,
+    "idObra": 7,
+    "numeroAsiento": "3J",
+    "reservada": false
+  },
+  {
+    "id": 1101,
+    "idObra": 7,
+    "numeroAsiento": "4A",
+    "reservada": false
+  },
+  {
+    "id": 1102,
+    "idObra": 7,
+    "numeroAsiento": "4B",
+    "reservada": false
+  },
+  {
+    "id": 1103,
+    "idObra": 7,
+    "numeroAsiento": "4C",
+    "reservada": false
+  },
+  {
+    "id": 1104,
+    "idObra": 7,
+    "numeroAsiento": "4D",
+    "reservada": false
+  },
+  {
+    "id": 1105,
+    "idObra": 7,
+    "numeroAsiento": "4E",
+    "reservada": false
+  },
+  {
+    "id": 1106,
+    "idObra": 7,
+    "numeroAsiento": "4F",
+    "reservada": false
+  },
+  {
+    "id": 1107,
+    "idObra": 7,
+    "numeroAsiento": "4G",
+    "reservada": false
+  },
+  {
+    "id": 1108,
+    "idObra": 7,
+    "numeroAsiento": "4H",
+    "reservada": false
+  },
+  {
+    "id": 1109,
+    "idObra": 7,
+    "numeroAsiento": "4I",
+    "reservada": false
+  },
+  {
+    "id": 1110,
+    "idObra": 7,
+    "numeroAsiento": "4J",
+    "reservada": false
+  },
+  {
+    "id": 1111,
+    "idObra": 7,
+    "numeroAsiento": "5A",
+    "reservada": false
+  },
+  {
+    "id": 1112,
+    "idObra": 7,
+    "numeroAsiento": "5B",
+    "reservada": false
+  },
+  {
+    "id": 1113,
+    "idObra": 7,
+    "numeroAsiento": "5C",
+    "reservada": false
+  },
+  {
+    "id": 1114,
+    "idObra": 7,
+    "numeroAsiento": "5D",
+    "reservada": false
+  },
+  {
+    "id": 1115,
+    "idObra": 7,
+    "numeroAsiento": "5E",
+    "reservada": false
+  },
+  {
+    "id": 1116,
+    "idObra": 7,
+    "numeroAsiento": "5F",
+    "reservada": false
+  },
+  {
+    "id": 1117,
+    "idObra": 7,
+    "numeroAsiento": "5G",
+    "reservada": false
+  },
+  {
+    "id": 1118,
+    "idObra": 7,
+    "numeroAsiento": "5H",
+    "reservada": false
+  },
+  {
+    "id": 1119,
+    "idObra": 7,
+    "numeroAsiento": "5I",
+    "reservada": false
+  },
+  {
+    "id": 1120,
+    "idObra": 7,
+    "numeroAsiento": "5J",
+    "reservada": false
+  },
+  {
+    "id": 1121,
+    "idObra": 7,
+    "numeroAsiento": "6A",
+    "reservada": false
+  },
+  {
+    "id": 1122,
+    "idObra": 7,
+    "numeroAsiento": "6B",
+    "reservada": false
+  },
+  {
+    "id": 1123,
+    "idObra": 7,
+    "numeroAsiento": "6C",
+    "reservada": false
+  },
+  {
+    "id": 1124,
+    "idObra": 7,
+    "numeroAsiento": "6D",
+    "reservada": false
+  },
+  {
+    "id": 1125,
+    "idObra": 7,
+    "numeroAsiento": "6E",
+    "reservada": false
+  },
+  {
+    "id": 1126,
+    "idObra": 7,
+    "numeroAsiento": "6F",
+    "reservada": false
+  },
+  {
+    "id": 1127,
+    "idObra": 7,
+    "numeroAsiento": "6G",
+    "reservada": false
+  },
+  {
+    "id": 1128,
+    "idObra": 7,
+    "numeroAsiento": "6H",
+    "reservada": false
+  },
+  {
+    "id": 1129,
+    "idObra": 7,
+    "numeroAsiento": "6I",
+    "reservada": false
+  },
+  {
+    "id": 1130,
+    "idObra": 7,
+    "numeroAsiento": "6J",
+    "reservada": false
+  },
+  {
+    "id": 1131,
+    "idObra": 7,
+    "numeroAsiento": "7A",
+    "reservada": false
+  },
+  {
+    "id": 1132,
+    "idObra": 7,
+    "numeroAsiento": "7B",
+    "reservada": false
+  },
+  {
+    "id": 1133,
+    "idObra": 7,
+    "numeroAsiento": "7C",
+    "reservada": false
+  },
+  {
+    "id": 1134,
+    "idObra": 7,
+    "numeroAsiento": "7D",
+    "reservada": false
+  },
+  {
+    "id": 1135,
+    "idObra": 7,
+    "numeroAsiento": "7E",
+    "reservada": false
+  },
+  {
+    "id": 1136,
+    "idObra": 7,
+    "numeroAsiento": "7F",
+    "reservada": false
+  },
+  {
+    "id": 1137,
+    "idObra": 7,
+    "numeroAsiento": "7G",
+    "reservada": false
+  },
+  {
+    "id": 1138,
+    "idObra": 7,
+    "numeroAsiento": "7H",
+    "reservada": false
+  },
+  {
+    "id": 1139,
+    "idObra": 7,
+    "numeroAsiento": "7I",
+    "reservada": false
+  },
+  {
+    "id": 1140,
+    "idObra": 7,
+    "numeroAsiento": "7J",
+    "reservada": false
+  },
+  {
+    "id": 1141,
+    "idObra": 7,
+    "numeroAsiento": "8A",
+    "reservada": false
+  },
+  {
+    "id": 1142,
+    "idObra": 7,
+    "numeroAsiento": "8B",
+    "reservada": false
+  },
+  {
+    "id": 1143,
+    "idObra": 7,
+    "numeroAsiento": "8C",
+    "reservada": false
+  },
+  {
+    "id": 1144,
+    "idObra": 7,
+    "numeroAsiento": "8D",
+    "reservada": false
+  },
+  {
+    "id": 1145,
+    "idObra": 7,
+    "numeroAsiento": "8E",
+    "reservada": false
+  },
+  {
+    "id": 1146,
+    "idObra": 7,
+    "numeroAsiento": "8F",
+    "reservada": false
+  },
+  {
+    "id": 1147,
+    "idObra": 7,
+    "numeroAsiento": "8G",
+    "reservada": false
+  },
+  {
+    "id": 1148,
+    "idObra": 7,
+    "numeroAsiento": "8H",
+    "reservada": false
+  },
+  {
+    "id": 1149,
+    "idObra": 7,
+    "numeroAsiento": "8I",
+    "reservada": false
+  },
+  {
+    "id": 1150,
+    "idObra": 7,
+    "numeroAsiento": "8J",
+    "reservada": false
+  },
+  {
+    "id": 1151,
+    "idObra": 7,
+    "numeroAsiento": "9A",
+    "reservada": false
+  },
+  {
+    "id": 1152,
+    "idObra": 7,
+    "numeroAsiento": "9B",
+    "reservada": false
+  },
+  {
+    "id": 1153,
+    "idObra": 7,
+    "numeroAsiento": "9C",
+    "reservada": false
+  },
+  {
+    "id": 1154,
+    "idObra": 7,
+    "numeroAsiento": "9D",
+    "reservada": false
+  },
+  {
+    "id": 1155,
+    "idObra": 7,
+    "numeroAsiento": "9E",
+    "reservada": false
+  },
+  {
+    "id": 1156,
+    "idObra": 7,
+    "numeroAsiento": "9F",
+    "reservada": false
+  },
+  {
+    "id": 1157,
+    "idObra": 7,
+    "numeroAsiento": "9G",
+    "reservada": false
+  },
+  {
+    "id": 1158,
+    "idObra": 7,
+    "numeroAsiento": "9H",
+    "reservada": false
+  },
+  {
+    "id": 1159,
+    "idObra": 7,
+    "numeroAsiento": "9I",
+    "reservada": false
+  },
+  {
+    "id": 1160,
+    "idObra": 7,
+    "numeroAsiento": "9J",
+    "reservada": false
+  },
+  {
+    "id": 1161,
+    "idObra": 7,
+    "numeroAsiento": "10A",
+    "reservada": false
+  },
+  {
+    "id": 1162,
+    "idObra": 7,
+    "numeroAsiento": "10B",
+    "reservada": false
+  },
+  {
+    "id": 1163,
+    "idObra": 7,
+    "numeroAsiento": "10C",
+    "reservada": false
+  },
+  {
+    "id": 1164,
+    "idObra": 7,
+    "numeroAsiento": "10D",
+    "reservada": false
+  },
+  {
+    "id": 1165,
+    "idObra": 7,
+    "numeroAsiento": "10E",
+    "reservada": false
+  },
+  {
+    "id": 1166,
+    "idObra": 7,
+    "numeroAsiento": "10F",
+    "reservada": false
+  },
+  {
+    "id": 1167,
+    "idObra": 7,
+    "numeroAsiento": "10G",
+    "reservada": false
+  },
+  {
+    "id": 1168,
+    "idObra": 7,
+    "numeroAsiento": "10H",
+    "reservada": false
+  },
+  {
+    "id": 1169,
+    "idObra": 7,
+    "numeroAsiento": "10I",
+    "reservada": false
+  },
+  {
+    "id": 1170,
+    "idObra": 7,
+    "numeroAsiento": "10J",
+    "reservada": false
+  },
+  {
+    "id": 1171,
+    "idObra": 7,
+    "numeroAsiento": "11A",
+    "reservada": false
+  },
+  {
+    "id": 1172,
+    "idObra": 7,
+    "numeroAsiento": "11B",
+    "reservada": false
+  },
+  {
+    "id": 1173,
+    "idObra": 7,
+    "numeroAsiento": "11C",
+    "reservada": false
+  },
+  {
+    "id": 1174,
+    "idObra": 7,
+    "numeroAsiento": "11D",
+    "reservada": false
+  },
+  {
+    "id": 1175,
+    "idObra": 7,
+    "numeroAsiento": "11E",
+    "reservada": false
+  },
+  {
+    "id": 1176,
+    "idObra": 7,
+    "numeroAsiento": "11F",
+    "reservada": false
+  },
+  {
+    "id": 1177,
+    "idObra": 7,
+    "numeroAsiento": "11G",
+    "reservada": false
+  },
+  {
+    "id": 1178,
+    "idObra": 7,
+    "numeroAsiento": "11H",
+    "reservada": false
+  },
+  {
+    "id": 1179,
+    "idObra": 7,
+    "numeroAsiento": "11I",
+    "reservada": false
+  },
+  {
+    "id": 1180,
+    "idObra": 7,
+    "numeroAsiento": "11J",
+    "reservada": false
+  },
+  {
+    "id": 1181,
+    "idObra": 7,
+    "numeroAsiento": "12A",
+    "reservada": false
+  },
+  {
+    "id": 1182,
+    "idObra": 7,
+    "numeroAsiento": "12B",
+    "reservada": false
+  },
+  {
+    "id": 1183,
+    "idObra": 7,
+    "numeroAsiento": "12C",
+    "reservada": false
+  },
+  {
+    "id": 1184,
+    "idObra": 7,
+    "numeroAsiento": "12D",
+    "reservada": false
+  },
+  {
+    "id": 1185,
+    "idObra": 7,
+    "numeroAsiento": "12E",
+    "reservada": false
+  },
+  {
+    "id": 1186,
+    "idObra": 7,
+    "numeroAsiento": "12F",
+    "reservada": false
+  },
+  {
+    "id": 1187,
+    "idObra": 7,
+    "numeroAsiento": "12G",
+    "reservada": false
+  },
+  {
+    "id": 1188,
+    "idObra": 7,
+    "numeroAsiento": "12H",
+    "reservada": false
+  },
+  {
+    "id": 1189,
+    "idObra": 7,
+    "numeroAsiento": "12I",
+    "reservada": false
+  },
+  {
+    "id": 1190,
+    "idObra": 7,
+    "numeroAsiento": "12J",
+    "reservada": false
+  }
+]
