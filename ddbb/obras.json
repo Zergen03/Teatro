@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "titulo": "Voces Ocultas",
+        "duracion": "2 horas y 15 minutos",
+        "descripcion": "Un monologo introspectivo sobre la identidad.",
+        "cantidadButacas": 114,
+        "portada": "../resources/main.png",
+        "fechaEmision": "2024-02-20T20:00:00Z",
+        "precioButaca": 45.00
+    },
+    {
+        "id": 1,
+        "titulo": "Espejos del Alma",
+        "duracion": "1 hora y 45 minutos",
+        "descripcion": "Una satira social que desafia las convenciones.",
+        "cantidadButacas": 186,
+        "portada": "../resources/obra1.png",
+        "fechaEmision": "2024-03-15T20:00:00Z",
+        "precioButaca": 40.00
+    },
+    {
+        "id": 2,
+        "titulo": "Ritmos de Cambio",
+        "duracion": "2 horas y 30 minutos",
+        "descripcion": "Una tragedia clasica con un toque contemporaneo.",
+        "cantidadButacas": 189,
+        "portada": "../resources/obra2.png",
+        "fechaEmision": "2024-04-10T20:00:00Z",
+        "precioButaca": 50.00
+    },
+    {
+        "id": 3,
+        "titulo": "Pinceladas de una Vida",
+        "duracion": "2 horas",
+        "descripcion": "Un espectaculo de danza que celebra la cultura.",
+        "cantidadButacas": 52,
+        "portada": "../resources/obra3.png",
+        "fechaEmision": "2024-05-05T20:00:00Z",
+        "precioButaca": 55.00
+    },
+    {
+        "id": 4,
+        "titulo": "The Beatles Symphonic Fantasy",
+        "duracion": "2 horas y 30 minutos",
+        "descripcion": "Una inmersiva experiencia sinfónica con los éxitos de The Beatles, dirigida por Damian Mahler.",
+        "cantidadButacas": 150,
+        "portada": "../resources/obra4.png",
+        "fechaEmision": "2024-06-01T20:00:00Z",
+        "precioButaca": 60.00
+    },
+    {
+        "id": 5,
+        "titulo": "La Ilíada",
+        "duracion": "3 horas",
+        "descripcion": "El épico poema de Homero cobra vida en el escenario, transportando al público a la antigua Grecia.",
+        "cantidadButacas": 200,
+        "portada": "../resources/obra5.png",
+        "fechaEmision": "2024-06-15T20:00:00Z",
+        "precioButaca": 35.00
+    },
+    {
+        "id": 6,
+        "titulo": "Norma",
+        "duracion": "3 horas y 15 minutos",
+        "descripcion": "La obra maestra de Bellini, Norma, presenta la inolvidable aria 'Casta Diva' en una producción conmovedora.",
+        "cantidadButacas": 180,
+        "portada": "../resources/obra6.png",
+        "fechaEmision": "2024-07-01T20:00:00Z",
+        "precioButaca": 65.00
+    },
+    {
+        "id": 7,
+        "titulo": "Noche de Drama",
+        "duracion": "2 horas y 45 minutos",
+        "descripcion": "Una actuación teatral que captura la esencia del drama humano a través de una poderosa narrativa y actuaciones intensas.",
+        "cantidadButacas": 120,
+        "portada": "../resources/obra7.png",
+        "fechaEmision": "2024-07-20T20:00:00Z",
+        "precioButaca": 45.00
+    }
+]

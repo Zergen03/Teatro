@@ -6,6 +6,11 @@ $colorDorado: #B8860B;
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; // Asegurar que el contenedor flex tenga al menos la altura de la ventana
+    margin: 0; // Remover cualquier margen por defecto
+
     font: {
         family: 'Libre Baskerville';
         size: 1em;
@@ -17,6 +22,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 150px;
+    flex-shrink: 0;
 
     padding: {
         left: 10%;
@@ -55,6 +61,8 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-shrink: 0;
+    margin-top: auto;
 
     padding: {
         left: 10%;
@@ -88,23 +96,33 @@ footer {
 }
 
 .valoradas {
-    height: 400px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 40px;
+    margin: {
+        top: 50px;
+        bottom: 50px;
+    }
 
-    img {
-        height: 100%;
+    text-align: center;
 
-        padding: {
-            left: 30px;
-            right: 30px;
+    p {
+        margin-bottom: 20px;
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        justify-items: center;
+        align-items: center;
+
+        img {
+            height: auto;
+            max-height: 400px;
+            width: auto;
         }
-
-        ;
     }
 }
+
+
 
 .seleccionButacas {
     display: flex;
@@ -112,6 +130,7 @@ footer {
     align-items: center;
     width: 100%;
     height: 100%;
+    flex: 1;
 
     margin: {
         bottom: 50px;
@@ -127,8 +146,6 @@ footer {
     }
 }
 
-.recientes {}
-
 .ajustarButacas {
     height: auto;
     min-width: 300px;
@@ -142,12 +159,7 @@ footer {
     }
 }
 
-// .ajustarButacas{
-//     margin: 100px;
-//     perspective: 1000px;
-// }
-
-.fila    {
+.fila {
     display: flex;
     justify-content: center;
     margin-bottom: 5px;
@@ -161,12 +173,6 @@ footer {
         border-radius: 4px;
         // cursor: pointer;
     }
-    // Ejemplo de cómo usar un bucle para generar estilos
-    // @for $i from 1 through 6 {
-    //     &:nth-child(#{$i}) {
-    //       transform: rotateX(10deg * (7 - $i));
-    //     }
-    //   }
 }
 
 .horarios {
@@ -179,6 +185,182 @@ footer {
         order: 2;
         width: 100%;
         height: 300px;
+        margin-bottom: 10px;
+    }
+}
+
+.imagen-central {
+    max-width: 200px;
+    height: auto;
+    margin: 20px 0;
+}
+
+.centroButacas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjeta-pelicula {
+    width: 200px;
+    height: 300px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.3s;
+    perspective: 1000px;
+
+    // Al agregar la clase 'girada', se aplica esta transformación
+    &.girada {
+        transform: rotateY(180deg);
     }
 
+    // Estilos para el frente y la parte trasera de la tarjeta
+    .frente,
+    .trasera {
+        backface-visibility: hidden; // Oculta el lado opuesto cuando se gira
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    // Estilos específicos para el frente
+    .frente {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+        // Añade aquí más estilos para el frente si lo necesitas
+    }
+
+    // Estilos específicos para la parte trasera
+    .trasera {
+        transform: rotateY(180deg); // Gira la parte trasera inicialmente
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #000000b2;
+        color: #fff;
+        border-radius: 10px;
+
+        // Estilos para el botón en la parte trasera
+        button {
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            cursor: pointer;
+
+            &:hover {
+                background-color: #5e5e5ead;
+            }
+        }
+    }
+}
+
+.grid-peliculas {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: $colorRojo;
+    border-radius: 10px;
+    border: 10px solid black;
+    @include borders(10px);
+    // min-width: 200px;
+
+    h2 {
+        margin-bottom: 20px;
+    }
+
+    @media (max-width: 1000px) {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    @media (max-width: 600px) {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .bordeTexto {
+        // border: 1px solid black;
+        background-color: white;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 20px;
+
+        @media (max-width: 600px) {
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+
+        input {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid black;
+        }
+
+        textarea {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid black;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid black;
+            background-color: $colorDorado;
+            color: white;
+            cursor: pointer;
+
+            &:hover {
+                background-color: #B8860B;
+            }
+        }
+    }
 }
